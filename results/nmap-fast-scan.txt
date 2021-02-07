@@ -1,0 +1,36 @@
+Starting Nmap 7.70 ( https://nmap.org ) at 2021-02-07 17:55 CET
+Note: Host seems down. If it is really up, but blocking our ping probes, try -Pn
+Nmap done: 1 IP address (0 hosts up) scanned in 3.03 seconds
+Starting Nmap 7.70 ( https://nmap.org ) at 2021-02-07 17:55 CET
+Note: Host seems down. If it is really up, but blocking our ping probes, try -Pn
+Nmap done: 1 IP address (0 hosts up) scanned in 3.03 seconds
+Starting Nmap 7.70 ( https://nmap.org ) at 2021-02-07 17:55 CET
+Nmap scan report for view.b2b.deliveroo.com (161.71.61.128)
+Host is up (0.032s latency).
+Not shown: 97 filtered ports
+PORT    STATE  SERVICE
+80/tcp  open   http
+113/tcp closed ident
+443/tcp open   https
+
+Nmap done: 1 IP address (1 host up) scanned in 2.30 seconds
+Starting Nmap 7.70 ( https://nmap.org ) at 2021-02-07 17:55 CET
+Nmap scan report for click.b2b.deliveroo.com (161.71.59.130)
+Host is up (0.037s latency).
+Not shown: 97 filtered ports
+PORT    STATE  SERVICE
+80/tcp  open   http
+113/tcp closed ident
+443/tcp open   https
+
+Nmap done: 1 IP address (1 host up) scanned in 1.89 seconds
+Starting Nmap 7.70 ( https://nmap.org ) at 2021-02-07 17:55 CET
+Nmap scan report for cloud.b2b.deliveroo.com (161.71.80.32)
+Host is up (0.033s latency).
+Not shown: 97 filtered ports
+PORT    STATE  SERVICE
+80/tcp  open   http
+113/tcp closed ident
+443/tcp open   https
+
+Nmap done: 1 IP address (1 host up) scanned in 2.02 seconds

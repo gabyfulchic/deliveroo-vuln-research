@@ -1,0 +1,3994 @@
+;; Server: 194.164.181.2:53
+;; Size: 127
+;; Unix time: 1612714281
+;; ->>HEADER<<- opcode: QUERY, status: NXDOMAIN, id: 3599
+;; flags: qr rd ra ; QUERY: 1, ANSWER: 0, AUTHORITY: 1, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+\x1b[92mrestaurants.deliveroo.com\x1b[0m. IN A
+
+;; AUTHORITY SECTION:
+. 10800 IN SOA a.root-servers.net. nstld.verisign-grs.com. 2021020700 1800 900 604800 86400
+
+
+;; Server: 80.72.146.2:53
+;; Size: 499
+;; Unix time: 1612714281
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 7503
+;; flags: qr rd ; QUERY: 1, ANSWER: 0, AUTHORITY: 13, ADDITIONAL: 11
+
+;; QUESTION SECTION:
+\x1b[92mwww.ad.corp.deliveroo.com\x1b[0m. IN A
+
+;; AUTHORITY SECTION:
+. 449888 IN NS d.root-servers.net.
+. 449888 IN NS b.root-servers.net.
+. 449888 IN NS a.root-servers.net.
+. 449888 IN NS g.root-servers.net.
+. 449888 IN NS h.root-servers.net.
+. 449888 IN NS k.root-servers.net.
+. 449888 IN NS e.root-servers.net.
+. 449888 IN NS i.root-servers.net.
+. 449888 IN NS m.root-servers.net.
+. 449888 IN NS j.root-servers.net.
+. 449888 IN NS c.root-servers.net.
+. 449888 IN NS l.root-servers.net.
+. 449888 IN NS f.root-servers.net.
+
+;; ADDITIONAL SECTION:
+m.root-servers.net. 342910 IN A 202.12.27.33
+m.root-servers.net. 322581 IN AAAA 2001:dc3::35
+b.root-servers.net. 322560 IN A 199.9.14.201
+b.root-servers.net. 322560 IN AAAA 2001:500:200::b
+c.root-servers.net. 322560 IN A 192.33.4.12
+c.root-servers.net. 322683 IN AAAA 2001:500:2::c
+d.root-servers.net. 322560 IN A 199.7.91.13
+d.root-servers.net. 322683 IN AAAA 2001:500:2d::d
+e.root-servers.net. 322560 IN A 192.203.230.10
+e.root-servers.net. 322683 IN AAAA 2001:500:a8::e
+f.root-servers.net. 322560 IN A 192.5.5.241
+
+
+;; Server: 212.102.225.2:53
+;; Size: 386
+;; Unix time: 1612714281
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 57358
+;; flags: qr rd ra ; QUERY: 1, ANSWER: 2, AUTHORITY: 2, ADDITIONAL: 12
+
+;; QUESTION SECTION:
+api.fr.deliveroo.com. IN A
+
+;; ANSWER SECTION:
+api.fr.deliveroo.com. 300 IN A 104.17.231.70
+api.fr.deliveroo.com. 300 IN A 104.17.230.70
+
+;; AUTHORITY SECTION:
+deliveroo.com. 172712 IN NS phil.ns.cloudflare.com.
+deliveroo.com. 172712 IN NS mona.ns.cloudflare.com.
+
+;; ADDITIONAL SECTION:
+mona.ns.cloudflare.com. 169582 IN A 108.162.192.206
+mona.ns.cloudflare.com. 169582 IN A 172.64.32.206
+mona.ns.cloudflare.com. 169582 IN A 173.245.58.206
+mona.ns.cloudflare.com. 169582 IN AAAA 2803:f800:50::6ca2:c0ce
+mona.ns.cloudflare.com. 169582 IN AAAA 2a06:98c1:50::ac40:20ce
+mona.ns.cloudflare.com. 169582 IN AAAA 2606:4700:50::adf5:3ace
+phil.ns.cloudflare.com. 169522 IN A 172.64.33.137
+phil.ns.cloudflare.com. 169522 IN A 173.245.59.137
+phil.ns.cloudflare.com. 169522 IN A 108.162.193.137
+phil.ns.cloudflare.com. 169522 IN AAAA 2a06:98c1:50::ac40:2189
+phil.ns.cloudflare.com. 169522 IN AAAA 2606:4700:58::adf5:3b89
+phil.ns.cloudflare.com. 169522 IN AAAA 2803:f800:50::6ca2:c189
+
+
+;; Server: 82.199.32.36:53
+;; Size: 245
+;; Unix time: 1612714281
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 64472
+;; flags: qr rd ; QUERY: 1, ANSWER: 0, AUTHORITY: 13, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+au.deliveroo.com. IN A
+
+;; AUTHORITY SECTION:
+. 3600000 IN NS J.ROOT-SERVERS.NET.
+. 3600000 IN NS K.ROOT-SERVERS.NET.
+. 3600000 IN NS L.ROOT-SERVERS.NET.
+. 3600000 IN NS M.ROOT-SERVERS.NET.
+. 3600000 IN NS A.ROOT-SERVERS.NET.
+. 3600000 IN NS B.ROOT-SERVERS.NET.
+. 3600000 IN NS C.ROOT-SERVERS.NET.
+. 3600000 IN NS D.ROOT-SERVERS.NET.
+. 3600000 IN NS E.ROOT-SERVERS.NET.
+. 3600000 IN NS F.ROOT-SERVERS.NET.
+. 3600000 IN NS G.ROOT-SERVERS.NET.
+. 3600000 IN NS H.ROOT-SERVERS.NET.
+. 3600000 IN NS I.ROOT-SERVERS.NET.
+
+
+;; Server: 83.137.41.9:53
+;; Size: 125
+;; Unix time: 1612714281
+;; ->>HEADER<<- opcode: QUERY, status: NXDOMAIN, id: 61173
+;; flags: qr rd ra ; QUERY: 1, ANSWER: 0, AUTHORITY: 1, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+\x1b[92mclick.b2b.deliveroo.com\x1b[0m. IN A
+
+;; AUTHORITY SECTION:
+. 10800 IN SOA a.root-servers.net. nstld.verisign-grs.com. 2021020700 1800 900 604800 86400
+
+
+;; Server: 212.94.162.33:53
+;; Size: 318
+;; Unix time: 1612714281
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 19582
+;; flags: qr rd ; QUERY: 1, ANSWER: 0, AUTHORITY: 7, ADDITIONAL: 8
+
+;; QUESTION SECTION:
+deliveroo.es. IN A
+
+;; AUTHORITY SECTION:
+es. 94262 IN NS a.nic.es.
+es. 94262 IN NS f.nic.es.
+es. 94262 IN NS g.nic.es.
+es. 94262 IN NS h.nic.es.
+es. 94262 IN NS ns1.cesca.es.
+es. 94262 IN NS ns-es.nic.fr.
+es. 94262 IN NS ssdns-tld.nic.cl.
+
+;; ADDITIONAL SECTION:
+a.nic.es. 17721 IN A 194.69.254.1
+f.nic.es. 17740 IN A 130.206.1.7
+g.nic.es. 17720 IN A 204.61.217.1
+h.nic.es. 94262 IN A 194.0.33.53
+ns1.cesca.es. 17578 IN A 84.88.0.3
+ns-es.nic.fr. 17554 IN A 194.0.9.1
+ssdns-tld.nic.cl. 94262 IN A 200.7.5.14
+g.nic.es. 7862 IN AAAA 2001:500:14:7001:ad::1
+
+
+;; Server: 193.22.119.195:53
+;; Size: 118
+;; Unix time: 1612714281
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 7376
+;; flags: qr rd ra ; QUERY: 1, ANSWER: 0, AUTHORITY: 1, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+corp.deliveroo.com. IN A
+
+;; AUTHORITY SECTION:
+corp.deliveroo.com. 900 IN SOA ns-1170.awsdns-18.org. awsdns-hostmaster.amazon.com. 1 7200 900 1209600 86400
+
+
+;; Server: 141.1.1.1:53
+;; Size: 197
+;; Unix time: 1612714281
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 41924
+;; flags: qr rd ra ; QUERY: 1, ANSWER: 4, AUTHORITY: 0, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+deliveroo.co.uk.us2.cas.ms. IN A
+
+;; ANSWER SECTION:
+deliveroo.co.uk.us2.cas.ms. 30 IN CNAME us2.cas.ms.
+us2.cas.ms. 30 IN CNAME prdp-1-nginxnode-main.trafficmanager.net.
+prdp-1-nginxnode-main.trafficmanager.net. 7 IN CNAME prod-4-peuw-nginxnode-lb1.westeurope.cloudapp.azure.com.
+prod-4-peuw-nginxnode-lb1.westeurope.cloudapp.azure.com. 10 IN A 52.157.233.49
+
+
+;; Server: 81.180.201.98:53
+;; Size: 44
+;; Unix time: 1612714281
+;; ->>HEADER<<- opcode: QUERY, status: SERVFAIL, id: 6937
+;; flags: qr rd ra ; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+*.be.sandbox.deliveroo.com. IN A
+
+
+;; Server: 212.102.225.2:53
+;; Size: 101
+;; Unix time: 1612714281
+;; ->>HEADER<<- opcode: QUERY, status: NXDOMAIN, id: 6093
+;; flags: qr aa rd ra ; QUERY: 1, ANSWER: 0, AUTHORITY: 1, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+hk.sandbox.deliveroo.com. IN A
+
+;; AUTHORITY SECTION:
+deliveroo.com. 3600 IN SOA mona.ns.cloudflare.com. dns.cloudflare.com. 2036403451 10000 2400 604800 3600
+
+
+;; Server: 158.43.128.72:53
+;; Size: 60
+;; Unix time: 1612714281
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 61538
+;; flags: qr rd ra ; QUERY: 1, ANSWER: 1, AUTHORITY: 0, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+deliveroo-partnerships.com. IN A
+
+;; ANSWER SECTION:
+deliveroo-partnerships.com. 10800 IN A 217.70.184.38
+
+
+;; Server: 194.20.0.24:53
+;; Size: 101
+;; Unix time: 1612714281
+;; ->>HEADER<<- opcode: QUERY, status: NXDOMAIN, id: 50054
+;; flags: qr rd ra ; QUERY: 1, ANSWER: 0, AUTHORITY: 1, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+de.sandbox.deliveroo.com. IN A
+
+;; AUTHORITY SECTION:
+deliveroo.com. 3600 IN SOA mona.ns.cloudflare.com. dns.cloudflare.com. 2036403451 10000 2400 604800 3600
+
+
+;; Server: 195.186.4.111:53
+;; Size: 101
+;; Unix time: 1612714281
+;; ->>HEADER<<- opcode: QUERY, status: NXDOMAIN, id: 29003
+;; flags: qr rd ra ; QUERY: 1, ANSWER: 0, AUTHORITY: 1, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+kw.sandbox.deliveroo.com. IN A
+
+;; AUTHORITY SECTION:
+deliveroo.com. 3600 IN SOA mona.ns.cloudflare.com. dns.cloudflare.com. 2036403451 10000 2400 604800 3600
+
+
+;; Server: 195.182.110.132:53
+;; Size: 93
+;; Unix time: 1612714281
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 28314
+;; flags: qr rd ra ; QUERY: 1, ANSWER: 0, AUTHORITY: 1, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+it.deliveroo.com. IN A
+
+;; AUTHORITY SECTION:
+deliveroo.com. 3600 IN SOA mona.ns.cloudflare.com. dns.cloudflare.com. 2036403451 10000 2400 604800 3600
+
+
+;; Server: 217.196.1.5:53
+;; Size: 510
+;; Unix time: 1612714281
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 36938
+;; flags: qr rd ; QUERY: 1, ANSWER: 0, AUTHORITY: 13, ADDITIONAL: 14
+
+;; QUESTION SECTION:
+restaurantperks.deliveroo.com. IN A
+
+;; AUTHORITY SECTION:
+com. 172800 IN NS k.gtld-servers.net.
+com. 172800 IN NS b.gtld-servers.net.
+com. 172800 IN NS m.gtld-servers.net.
+com. 172800 IN NS j.gtld-servers.net.
+com. 172800 IN NS a.gtld-servers.net.
+com. 172800 IN NS d.gtld-servers.net.
+com. 172800 IN NS h.gtld-servers.net.
+com. 172800 IN NS g.gtld-servers.net.
+com. 172800 IN NS f.gtld-servers.net.
+com. 172800 IN NS i.gtld-servers.net.
+com. 172800 IN NS e.gtld-servers.net.
+com. 172800 IN NS l.gtld-servers.net.
+com. 172800 IN NS c.gtld-servers.net.
+
+;; ADDITIONAL SECTION:
+m.gtld-servers.net. 172800 IN A 192.55.83.30
+l.gtld-servers.net. 172800 IN A 192.41.162.30
+k.gtld-servers.net. 172800 IN A 192.52.178.30
+j.gtld-servers.net. 172800 IN A 192.48.79.30
+i.gtld-servers.net. 172800 IN A 192.43.172.30
+h.gtld-servers.net. 172800 IN A 192.54.112.30
+g.gtld-servers.net. 172800 IN A 192.42.93.30
+f.gtld-servers.net. 172800 IN A 192.35.51.30
+e.gtld-servers.net. 172800 IN A 192.12.94.30
+d.gtld-servers.net. 172800 IN A 192.31.80.30
+c.gtld-servers.net. 172800 IN A 192.26.92.30
+b.gtld-servers.net. 172800 IN A 192.33.14.30
+a.gtld-servers.net. 172800 IN A 192.5.6.30
+m.gtld-servers.net. 172800 IN AAAA 2001:501:b1f9::30
+
+
+;; Server: 217.69.169.25:53
+;; Size: 95
+;; Unix time: 1612714281
+;; ->>HEADER<<- opcode: QUERY, status: NXDOMAIN, id: 16729
+;; flags: qr rd ra ; QUERY: 1, ANSWER: 0, AUTHORITY: 1, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+*.hk.deliveroo.com. IN A
+
+;; AUTHORITY SECTION:
+deliveroo.com. 3600 IN SOA mona.ns.cloudflare.com. dns.cloudflare.com. 2036403451 10000 2400 604800 3600
+
+
+;; Server: 158.43.128.72:53
+;; Size: 66
+;; Unix time: 1612714281
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 17761
+;; flags: qr rd ra ; QUERY: 1, ANSWER: 2, AUTHORITY: 0, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+deliveroo.com.au. IN A
+
+;; ANSWER SECTION:
+deliveroo.com.au. 300 IN A 104.18.9.105
+deliveroo.com.au. 300 IN A 104.18.8.105
+
+
+;; Server: 193.226.61.1:53
+;; Size: 31
+;; Unix time: 1612714281
+;; ->>HEADER<<- opcode: QUERY, status: SERVFAIL, id: 39345
+;; flags: qr rd ra ; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+deliveroo.biz. IN A
+
+
+;; Server: 193.226.61.1:53
+;; Size: 36
+;; Unix time: 1612714281
+;; ->>HEADER<<- opcode: QUERY, status: SERVFAIL, id: 37554
+;; flags: qr rd ra ; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+*.il.deliveroo.com. IN A
+
+
+;; Server: 62.105.17.252:53
+;; Size: 269
+;; Unix time: 1612714281
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 9085
+;; flags: qr rd ; QUERY: 1, ANSWER: 0, AUTHORITY: 13, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+api.uk.deliveroo.comapi.uk.deliveroo.com. IN A
+
+;; AUTHORITY SECTION:
+. 3600000 IN NS F.ROOT-SERVERS.NET.
+. 3600000 IN NS G.ROOT-SERVERS.NET.
+. 3600000 IN NS H.ROOT-SERVERS.NET.
+. 3600000 IN NS I.ROOT-SERVERS.NET.
+. 3600000 IN NS J.ROOT-SERVERS.NET.
+. 3600000 IN NS K.ROOT-SERVERS.NET.
+. 3600000 IN NS L.ROOT-SERVERS.NET.
+. 3600000 IN NS M.ROOT-SERVERS.NET.
+. 3600000 IN NS A.ROOT-SERVERS.NET.
+. 3600000 IN NS B.ROOT-SERVERS.NET.
+. 3600000 IN NS C.ROOT-SERVERS.NET.
+. 3600000 IN NS D.ROOT-SERVERS.NET.
+. 3600000 IN NS E.ROOT-SERVERS.NET.
+
+
+;; Server: 87.204.28.12:53
+;; Size: 42
+;; Unix time: 1612714281
+;; ->>HEADER<<- opcode: QUERY, status: SERVFAIL, id: 28317
+;; flags: qr rd ra ; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+it.sandbox.deliveroo.com. IN A
+
+
+;; Server: 83.137.41.8:53
+;; Size: 93
+;; Unix time: 1612714281
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 19175
+;; flags: qr rd ra ; QUERY: 1, ANSWER: 0, AUTHORITY: 1, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+es.deliveroo.com. IN A
+
+;; AUTHORITY SECTION:
+deliveroo.com. 3600 IN SOA mona.ns.cloudflare.com. dns.cloudflare.com. 2036403451 10000 2400 604800 3600
+
+
+;; Server: 217.73.17.110:53
+;; Size: 63
+;; Unix time: 1612714281
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 16729
+;; flags: qr rd ra ; QUERY: 1, ANSWER: 2, AUTHORITY: 0, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+deliveroo.net. IN A
+
+;; ANSWER SECTION:
+deliveroo.net. 60 IN A 104.18.30.194
+deliveroo.net. 60 IN A 104.18.31.194
+
+
+;; Server: 87.229.99.1:53
+;; Size: 120
+;; Unix time: 1612714281
+;; ->>HEADER<<- opcode: QUERY, status: NXDOMAIN, id: 59960
+;; flags: qr rd ra ; QUERY: 1, ANSWER: 0, AUTHORITY: 1, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+rider-ow-api.atlantis.staging.deliveroo.com. IN A
+
+;; AUTHORITY SECTION:
+deliveroo.com. 3600 IN SOA mona.ns.cloudflare.com. dns.cloudflare.com. 2036403451 10000 2400 604800 3600
+
+
+;; Server: 213.211.50.2:53
+;; Size: 62
+;; Unix time: 1612714281
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 24391
+;; flags: qr rd ra ; QUERY: 1, ANSWER: 2, AUTHORITY: 0, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+deliveroo.ie. IN A
+
+;; ANSWER SECTION:
+deliveroo.ie. 300 IN A 104.18.5.191
+deliveroo.ie. 300 IN A 104.18.4.191
+
+
+;; Server: 212.14.253.242:53
+;; Size: 109
+;; Unix time: 1612714281
+;; ->>HEADER<<- opcode: QUERY, status: NXDOMAIN, id: 1806
+;; flags: qr rd ra ; QUERY: 1, ANSWER: 0, AUTHORITY: 1, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+10.72.180.60api.uk.deliveroo.com. IN A
+
+;; AUTHORITY SECTION:
+deliveroo.com. 1799 IN SOA mona.ns.cloudflare.com. dns.cloudflare.com. 2036403451 10000 2400 604800 3600
+
+
+;; Server: 216.106.1.2:53
+;; Size: 103
+;; Unix time: 1612714281
+;; ->>HEADER<<- opcode: QUERY, status: NXDOMAIN, id: 8321
+;; flags: qr rd ra ; QUERY: 1, ANSWER: 0, AUTHORITY: 1, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+*.au.sandbox.deliveroo.com. IN A
+
+;; AUTHORITY SECTION:
+deliveroo.com. 3600 IN SOA mona.ns.cloudflare.com. dns.cloudflare.com. 2036403451 10000 2400 604800 3600
+
+
+;; Server: 63.251.62.33:53
+;; Size: 393
+;; Unix time: 1612714281
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 14483
+;; flags: qr rd ra ; QUERY: 1, ANSWER: 2, AUTHORITY: 2, ADDITIONAL: 12
+
+;; QUESTION SECTION:
+announce.deliveroo.co.uk. IN A
+
+;; ANSWER SECTION:
+announce.deliveroo.co.uk. 300 IN A 104.18.18.124
+announce.deliveroo.co.uk. 300 IN A 104.18.19.124
+
+;; AUTHORITY SECTION:
+deliveroo.co.uk. 126868 IN NS phil.ns.cloudflare.com.
+deliveroo.co.uk. 126868 IN NS mona.ns.cloudflare.com.
+
+;; ADDITIONAL SECTION:
+mona.ns.cloudflare.com. 122754 IN A 173.245.58.206
+mona.ns.cloudflare.com. 122754 IN A 108.162.192.206
+mona.ns.cloudflare.com. 122754 IN A 172.64.32.206
+phil.ns.cloudflare.com. 34041 IN A 173.245.59.137
+phil.ns.cloudflare.com. 34041 IN A 108.162.193.137
+phil.ns.cloudflare.com. 34041 IN A 172.64.33.137
+mona.ns.cloudflare.com. 7413 IN AAAA 2a06:98c1:50::ac40:20ce
+mona.ns.cloudflare.com. 7413 IN AAAA 2606:4700:50::adf5:3ace
+mona.ns.cloudflare.com. 7413 IN AAAA 2803:f800:50::6ca2:c0ce
+phil.ns.cloudflare.com. 24756 IN AAAA 2803:f800:50::6ca2:c189
+phil.ns.cloudflare.com. 24756 IN AAAA 2a06:98c1:50::ac40:2189
+phil.ns.cloudflare.com. 24756 IN AAAA 2606:4700:58::adf5:3b89
+
+
+;; Server: 216.52.65.1:53
+;; Size: 95
+;; Unix time: 1612714281
+;; ->>HEADER<<- opcode: QUERY, status: NXDOMAIN, id: 34665
+;; flags: qr rd ra ; QUERY: 1, ANSWER: 0, AUTHORITY: 1, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+*.es.deliveroo.com. IN A
+
+;; AUTHORITY SECTION:
+deliveroo.com. 3600 IN SOA mona.ns.cloudflare.com. dns.cloudflare.com. 2036403451 10000 2400 604800 3600
+
+
+;; Server: 193.67.79.39:53
+;; Size: 101
+;; Unix time: 1612714281
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 44314
+;; flags: qr rd ra ; QUERY: 1, ANSWER: 0, AUTHORITY: 1, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+de.staging.deliveroo.com. IN A
+
+;; AUTHORITY SECTION:
+deliveroo.com. 3600 IN SOA mona.ns.cloudflare.com. dns.cloudflare.com. 2036403451 10000 2400 604800 3600
+
+
+;; Server: 202.130.97.66:53
+;; Size: 125
+;; Unix time: 1612714281
+;; ->>HEADER<<- opcode: QUERY, status: NXDOMAIN, id: 9584
+;; flags: qr rd ra ; QUERY: 1, ANSWER: 0, AUTHORITY: 1, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+\x1b[92mcloud.b2b.deliveroo.com\x1b[0m. IN A
+
+;; AUTHORITY SECTION:
+. 5 IN SOA a.root-servers.net. nstld.verisign-grs.com. 2021020700 1800 900 604800 86400
+
+
+;; Server: 209.143.0.10:53
+;; Size: 205
+;; Unix time: 1612714281
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 59762
+;; flags: qr rd ra ; QUERY: 1, ANSWER: 1, AUTHORITY: 4, ADDITIONAL: 4
+
+;; QUESTION SECTION:
+cloud.b2b.deliveroo.com. IN A
+
+;; ANSWER SECTION:
+cloud.b2b.deliveroo.com. 3600 IN A 161.71.80.32
+
+;; AUTHORITY SECTION:
+b2b.deliveroo.com. 300 IN NS ns3.exacttarget.com.
+b2b.deliveroo.com. 300 IN NS ns2.exacttarget.com.
+b2b.deliveroo.com. 300 IN NS ns4.exacttarget.com.
+b2b.deliveroo.com. 300 IN NS ns1.exacttarget.com.
+
+;; ADDITIONAL SECTION:
+ns3.exacttarget.com. 102079 IN A 68.232.203.115
+ns2.exacttarget.com. 102079 IN A 66.231.94.222
+ns4.exacttarget.com. 98397 IN A 136.147.129.78
+ns1.exacttarget.com. 102079 IN A 66.231.91.222
+
+
+;; Server: 62.233.128.17:53
+;; Size: 105
+;; Unix time: 1612714281
+;; ->>HEADER<<- opcode: QUERY, status: NXDOMAIN, id: 50524
+;; flags: qr rd ra ; QUERY: 1, ANSWER: 0, AUTHORITY: 1, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+global.sandbox.deliveroo.com. IN A
+
+;; AUTHORITY SECTION:
+deliveroo.com. 600 IN SOA mona.ns.cloudflare.com. dns.cloudflare.com. 2036403451 10000 2400 604800 3600
+
+
+;; Server: 158.43.240.4:53
+;; Size: 103
+;; Unix time: 1612714281
+;; ->>HEADER<<- opcode: QUERY, status: NXDOMAIN, id: 52191
+;; flags: qr aa rd ra ; QUERY: 1, ANSWER: 0, AUTHORITY: 1, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+*.ie.staging.deliveroo.com. IN A
+
+;; AUTHORITY SECTION:
+deliveroo.com. 3600 IN SOA mona.ns.cloudflare.com. dns.cloudflare.com. 2036403451 10000 2400 604800 3600
+
+
+;; Server: 69.16.170.11:53
+;; Size: 123
+;; Unix time: 1612714281
+;; ->>HEADER<<- opcode: QUERY, status: NXDOMAIN, id: 56012
+;; flags: qr rd ra ; QUERY: 1, ANSWER: 0, AUTHORITY: 1, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+\x1b[92mad.corp.deliveroo.com\x1b[0m. IN A
+
+;; AUTHORITY SECTION:
+. 3600 IN SOA a.root-servers.net. nstld.verisign-grs.com. 2021020700 1800 900 604800 86400
+
+
+;; Server: 193.95.93.243:53
+;; Size: 95
+;; Unix time: 1612714281
+;; ->>HEADER<<- opcode: QUERY, status: NXDOMAIN, id: 19733
+;; flags: qr rd ra ; QUERY: 1, ANSWER: 0, AUTHORITY: 1, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+*.it.deliveroo.com. IN A
+
+;; AUTHORITY SECTION:
+deliveroo.com. 1 IN SOA mona.ns.cloudflare.com. dns.cloudflare.com. 2036403451 10000 2400 604800 3600
+
+
+;; Server: 216.54.201.11:53
+;; Size: 103
+;; Unix time: 1612714281
+;; ->>HEADER<<- opcode: QUERY, status: NXDOMAIN, id: 53067
+;; flags: qr rd ra ; QUERY: 1, ANSWER: 0, AUTHORITY: 1, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+*.es.sandbox.deliveroo.com. IN A
+
+;; AUTHORITY SECTION:
+deliveroo.com. 3600 IN SOA mona.ns.cloudflare.com. dns.cloudflare.com. 2036403451 10000 2400 604800 3600
+
+
+;; Server: 63.251.62.1:53
+;; Size: 101
+;; Unix time: 1612714281
+;; ->>HEADER<<- opcode: QUERY, status: NXDOMAIN, id: 59683
+;; flags: qr rd ra ; QUERY: 1, ANSWER: 0, AUTHORITY: 1, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+be.sandbox.deliveroo.com. IN A
+
+;; AUTHORITY SECTION:
+deliveroo.com. 3600 IN SOA mona.ns.cloudflare.com. dns.cloudflare.com. 2036403451 10000 2400 604800 3600
+
+
+;; Server: 194.25.0.52:53
+;; Size: 101
+;; Unix time: 1612714281
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 53108
+;; flags: qr rd ra ; QUERY: 1, ANSWER: 0, AUTHORITY: 1, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+kw.staging.deliveroo.com. IN A
+
+;; AUTHORITY SECTION:
+deliveroo.com. 3600 IN SOA mona.ns.cloudflare.com. dns.cloudflare.com. 2036403451 10000 2400 604800 3600
+
+
+;; Server: 65.203.109.2:53
+;; Size: 122
+;; Unix time: 1612714281
+;; ->>HEADER<<- opcode: QUERY, status: NXDOMAIN, id: 54358
+;; flags: qr rd ra ; QUERY: 1, ANSWER: 0, AUTHORITY: 1, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+\x1b[92mapi.uk.deliveroo.com\x1b[0m. IN A
+
+;; AUTHORITY SECTION:
+. 900 IN SOA a.root-servers.net. nstld.verisign-grs.com. 2021020700 1800 900 604800 86400
+
+
+;; Server: 168.213.3.10:53
+;; Size: 497
+;; Unix time: 1612714281
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 11575
+;; flags: qr rd ; QUERY: 1, ANSWER: 0, AUTHORITY: 13, ADDITIONAL: 3
+
+;; QUESTION SECTION:
+kw.deliveroo.com. IN A
+
+;; AUTHORITY SECTION:
+. 3600 IN NS g.root-servers.net.
+. 3600 IN NS i.root-servers.net.
+. 3600 IN NS b.root-servers.net.
+. 3600 IN NS f.root-servers.net.
+. 3600 IN NS j.root-servers.net.
+. 3600 IN NS a.root-servers.net.
+. 3600 IN NS d.root-servers.net.
+. 3600 IN NS k.root-servers.net.
+. 3600 IN NS m.root-servers.net.
+. 3600 IN NS l.root-servers.net.
+. 3600 IN NS c.root-servers.net.
+. 3600 IN NS e.root-servers.net.
+. 3600 IN NS h.root-servers.net.
+
+;; ADDITIONAL SECTION:
+g.root-servers.net. 3600 IN A 192.112.36.4
+i.root-servers.net. 3600 IN A 192.36.148.17
+b.root-servers.net. 3600 IN A 192.228.79.201
+
+
+;; Server: 165.87.13.129:53
+;; Size: 95
+;; Unix time: 1612714281
+;; ->>HEADER<<- opcode: QUERY, status: NXDOMAIN, id: 17537
+;; flags: qr rd ra ; QUERY: 1, ANSWER: 0, AUTHORITY: 1, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+*.nl.deliveroo.com. IN A
+
+;; AUTHORITY SECTION:
+deliveroo.com. 3600 IN SOA mona.ns.cloudflare.com. dns.cloudflare.com. 2036403451 10000 2400 604800 3600
+
+
+;; Server: 79.141.81.250:53
+;; Size: 203
+;; Unix time: 1612714281
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 20714
+;; flags: qr rd ra ; QUERY: 1, ANSWER: 1, AUTHORITY: 4, ADDITIONAL: 4
+
+;; QUESTION SECTION:
+mta.b2b.deliveroo.com. IN A
+
+;; ANSWER SECTION:
+mta.b2b.deliveroo.com. 3600 IN A 161.71.65.148
+
+;; AUTHORITY SECTION:
+b2b.deliveroo.com. 300 IN NS ns1.exacttarget.com.
+b2b.deliveroo.com. 300 IN NS ns4.exacttarget.com.
+b2b.deliveroo.com. 300 IN NS ns3.exacttarget.com.
+b2b.deliveroo.com. 300 IN NS ns2.exacttarget.com.
+
+;; ADDITIONAL SECTION:
+ns1.exacttarget.com. 171350 IN A 66.231.91.222
+ns2.exacttarget.com. 156174 IN A 66.231.94.222
+ns3.exacttarget.com. 156174 IN A 68.232.203.115
+ns4.exacttarget.com. 156174 IN A 136.147.129.78
+
+
+;; Server: 208.78.24.238:53
+;; Size: 62
+;; Unix time: 1612714281
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 35861
+;; flags: qr rd ra ; QUERY: 1, ANSWER: 2, AUTHORITY: 0, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+deliveroo.nl. IN A
+
+;; ANSWER SECTION:
+deliveroo.nl. 300 IN A 104.17.15.191
+deliveroo.nl. 300 IN A 104.17.16.191
+
+
+;; Server: 195.129.12.83:53
+;; Size: 87
+;; Unix time: 1612714281
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 29312
+;; flags: qr rd ra ; QUERY: 1, ANSWER: 2, AUTHORITY: 0, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+staging-consumer-ow-api.deliveroo.com. IN A
+
+;; ANSWER SECTION:
+staging-consumer-ow-api.deliveroo.com. 300 IN A 104.17.230.70
+staging-consumer-ow-api.deliveroo.com. 300 IN A 104.17.231.70
+
+
+;; Server: 168.213.3.10:53
+;; Size: 499
+;; Unix time: 1612714281
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 41860
+;; flags: qr rd ; QUERY: 1, ANSWER: 0, AUTHORITY: 13, ADDITIONAL: 2
+
+;; QUESTION SECTION:
+staging-rider-ow-api.deliveroo.com. IN A
+
+;; AUTHORITY SECTION:
+. 3600 IN NS g.root-servers.net.
+. 3600 IN NS i.root-servers.net.
+. 3600 IN NS b.root-servers.net.
+. 3600 IN NS f.root-servers.net.
+. 3600 IN NS j.root-servers.net.
+. 3600 IN NS a.root-servers.net.
+. 3600 IN NS d.root-servers.net.
+. 3600 IN NS k.root-servers.net.
+. 3600 IN NS m.root-servers.net.
+. 3600 IN NS l.root-servers.net.
+. 3600 IN NS c.root-servers.net.
+. 3600 IN NS e.root-servers.net.
+. 3600 IN NS h.root-servers.net.
+
+;; ADDITIONAL SECTION:
+g.root-servers.net. 3600 IN A 192.112.36.4
+i.root-servers.net. 3600 IN A 192.36.148.17
+
+
+;; Server: 79.141.83.250:53
+;; Size: 386
+;; Unix time: 1612714281
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 42179
+;; flags: qr rd ra ; QUERY: 1, ANSWER: 2, AUTHORITY: 2, ADDITIONAL: 12
+
+;; QUESTION SECTION:
+api.nl.deliveroo.com. IN A
+
+;; ANSWER SECTION:
+api.nl.deliveroo.com. 300 IN A 104.17.231.70
+api.nl.deliveroo.com. 300 IN A 104.17.230.70
+
+;; AUTHORITY SECTION:
+deliveroo.com. 172800 IN NS phil.ns.cloudflare.com.
+deliveroo.com. 172800 IN NS mona.ns.cloudflare.com.
+
+;; ADDITIONAL SECTION:
+mona.ns.cloudflare.com. 72382 IN A 108.162.192.206
+mona.ns.cloudflare.com. 72382 IN A 172.64.32.206
+mona.ns.cloudflare.com. 72382 IN A 173.245.58.206
+phil.ns.cloudflare.com. 171816 IN A 172.64.33.137
+phil.ns.cloudflare.com. 171816 IN A 173.245.59.137
+phil.ns.cloudflare.com. 171816 IN A 108.162.193.137
+mona.ns.cloudflare.com. 29373 IN AAAA 2606:4700:50::adf5:3ace
+mona.ns.cloudflare.com. 29373 IN AAAA 2803:f800:50::6ca2:c0ce
+mona.ns.cloudflare.com. 29373 IN AAAA 2a06:98c1:50::ac40:20ce
+phil.ns.cloudflare.com. 171816 IN AAAA 2a06:98c1:50::ac40:2189
+phil.ns.cloudflare.com. 171816 IN AAAA 2606:4700:58::adf5:3b89
+phil.ns.cloudflare.com. 171816 IN AAAA 2803:f800:50::6ca2:c189
+
+
+;; Server: 193.95.93.77:53
+;; Size: 103
+;; Unix time: 1612714281
+;; ->>HEADER<<- opcode: QUERY, status: NXDOMAIN, id: 64299
+;; flags: qr rd ra ; QUERY: 1, ANSWER: 0, AUTHORITY: 1, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+*.uk.staging.deliveroo.com. IN A
+
+;; AUTHORITY SECTION:
+deliveroo.com. 1 IN SOA mona.ns.cloudflare.com. dns.cloudflare.com. 2036403451 10000 2400 604800 3600
+
+
+;; Server: 69.146.17.3:53
+;; Size: 36
+;; Unix time: 1612714281
+;; ->>HEADER<<- opcode: QUERY, status: NXDOMAIN, id: 53554
+;; flags: qr rd ra ; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+ldap.deliveroo.com. IN A
+
+
+;; Server: 65.203.109.2:53
+;; Size: 103
+;; Unix time: 1612714281
+;; ->>HEADER<<- opcode: QUERY, status: NXDOMAIN, id: 59187
+;; flags: qr rd ra ; QUERY: 1, ANSWER: 0, AUTHORITY: 1, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+*.kw.staging.deliveroo.com. IN A
+
+;; AUTHORITY SECTION:
+deliveroo.com. 900 IN SOA mona.ns.cloudflare.com. dns.cloudflare.com. 2036403451 10000 2400 604800 3600
+
+
+;; Server: 206.124.64.1:53
+;; Size: 101
+;; Unix time: 1612714281
+;; ->>HEADER<<- opcode: QUERY, status: NXDOMAIN, id: 13395
+;; flags: qr rd ra ; QUERY: 1, ANSWER: 0, AUTHORITY: 1, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+es.sandbox.deliveroo.com. IN A
+
+;; AUTHORITY SECTION:
+deliveroo.com. 3600 IN SOA mona.ns.cloudflare.com. dns.cloudflare.com. 2036403451 10000 2400 604800 3600
+
+
+;; Server: 212.19.96.2:53
+;; Size: 50
+;; Unix time: 1612714281
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 40243
+;; flags: qr rd ra ; QUERY: 1, ANSWER: 1, AUTHORITY: 0, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+deliveroo.com.co. IN A
+
+;; ANSWER SECTION:
+deliveroo.com.co. 10800 IN A 217.70.184.38
+
+
+;; Server: 203.250.129.214:53
+;; Size: 122
+;; Unix time: 1612714281
+;; ->>HEADER<<- opcode: QUERY, status: NXDOMAIN, id: 22346
+;; flags: qr rd ra ; QUERY: 1, ANSWER: 0, AUTHORITY: 1, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+\x1b[92mapi.fr.deliveroo.com\x1b[0m. IN A
+
+;; AUTHORITY SECTION:
+. 3600 IN SOA a.root-servers.net. nstld.verisign-grs.com. 2021020700 1800 900 604800 86400
+
+
+;; Server: 62.94.0.42:53
+;; Size: 95
+;; Unix time: 1612714281
+;; ->>HEADER<<- opcode: QUERY, status: NXDOMAIN, id: 2428
+;; flags: qr rd ra ; QUERY: 1, ANSWER: 0, AUTHORITY: 1, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+test.deliveroo.com. IN A
+
+;; AUTHORITY SECTION:
+deliveroo.com. 3600 IN SOA mona.ns.cloudflare.com. dns.cloudflare.com. 2036403451 10000 2400 604800 3600
+
+
+;; Server: 195.14.50.21:53
+;; Size: 122
+;; Unix time: 1612714281
+;; ->>HEADER<<- opcode: QUERY, status: NXDOMAIN, id: 37799
+;; flags: qr rd ra ; QUERY: 1, ANSWER: 0, AUTHORITY: 1, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+\x1b[92mapi.hk.deliveroo.com\x1b[0m. IN A
+
+;; AUTHORITY SECTION:
+. 1481 IN SOA a.root-servers.net. nstld.verisign-grs.com. 2021020700 1800 900 604800 86400
+
+
+;; Server: 137.82.1.1:53
+;; Size: 107
+;; Unix time: 1612714281
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 43430
+;; flags: qr rd ra ; QUERY: 1, ANSWER: 0, AUTHORITY: 1, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+atlantis.staging.deliveroo.com. IN A
+
+;; AUTHORITY SECTION:
+deliveroo.com. 3600 IN SOA mona.ns.cloudflare.com. dns.cloudflare.com. 2036403451 10000 2400 604800 3600
+
+
+;; Server: 216.52.65.33:53
+;; Size: 381
+;; Unix time: 1612714281
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 56995
+;; flags: qr rd ra ; QUERY: 1, ANSWER: 2, AUTHORITY: 2, ADDITIONAL: 12
+
+;; QUESTION SECTION:
+deliveroo.de. IN A
+
+;; ANSWER SECTION:
+deliveroo.de. 300 IN A 104.18.218.77
+deliveroo.de. 300 IN A 104.18.219.77
+
+;; AUTHORITY SECTION:
+deliveroo.de. 86400 IN NS mona.ns.cloudflare.com.
+deliveroo.de. 86400 IN NS phil.ns.cloudflare.com.
+
+;; ADDITIONAL SECTION:
+mona.ns.cloudflare.com. 157075 IN A 108.162.192.206
+mona.ns.cloudflare.com. 157075 IN A 172.64.32.206
+mona.ns.cloudflare.com. 157075 IN A 173.245.58.206
+phil.ns.cloudflare.com. 150902 IN A 172.64.33.137
+phil.ns.cloudflare.com. 150902 IN A 173.245.59.137
+phil.ns.cloudflare.com. 150902 IN A 108.162.193.137
+mona.ns.cloudflare.com. 157075 IN AAAA 2803:f800:50::6ca2:c0ce
+mona.ns.cloudflare.com. 157075 IN AAAA 2a06:98c1:50::ac40:20ce
+mona.ns.cloudflare.com. 157075 IN AAAA 2606:4700:50::adf5:3ace
+phil.ns.cloudflare.com. 150902 IN AAAA 2a06:98c1:50::ac40:2189
+phil.ns.cloudflare.com. 150902 IN AAAA 2606:4700:58::adf5:3b89
+phil.ns.cloudflare.com. 150902 IN AAAA 2803:f800:50::6ca2:c189
+
+
+;; Server: 95.158.128.2:53
+;; Size: 166
+;; Unix time: 1612714281
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 1621
+;; flags: qr rd ra ; QUERY: 1, ANSWER: 4, AUTHORITY: 0, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+image.b2b.deliveroo.com. IN A
+
+;; ANSWER SECTION:
+image.b2b.deliveroo.com. 3600 IN CNAME akamai-san150.exacttarget.com.edgekey.net.
+akamai-san150.exacttarget.com.edgekey.net. 21600 IN CNAME e122007.dscx.akamaiedge.net.
+e122007.dscx.akamaiedge.net. 20 IN A 2.23.97.139
+e122007.dscx.akamaiedge.net. 20 IN A 2.23.97.82
+
+
+;; Server: 203.253.31.1:53
+;; Size: 103
+;; Unix time: 1612714281
+;; ->>HEADER<<- opcode: QUERY, status: NXDOMAIN, id: 43011
+;; flags: qr rd ra ; QUERY: 1, ANSWER: 0, AUTHORITY: 1, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+*.hk.staging.deliveroo.com. IN A
+
+;; AUTHORITY SECTION:
+deliveroo.com. 3600 IN SOA mona.ns.cloudflare.com. dns.cloudflare.com. 2036403451 10000 2400 604800 3600
+
+
+;; Server: 221.139.13.130:53
+;; Size: 133
+;; Unix time: 1612714281
+;; ->>HEADER<<- opcode: QUERY, status: NXDOMAIN, id: 17275
+;; flags: qr rd ra ; QUERY: 1, ANSWER: 0, AUTHORITY: 1, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+*.it.staging.deliveroo.com. IN A
+
+;; AUTHORITY SECTION:
+deliveroo.com. 3600 IN SOA mona.ns.cloudflare.com. dns.cloudflare.com. 2036403451 10000 2400 604800 3600
+
+
+;; Server: 211.115.194.2:53
+;; Size: 103
+;; Unix time: 1612714281
+;; ->>HEADER<<- opcode: QUERY, status: NXDOMAIN, id: 12978
+;; flags: qr rd ra ; QUERY: 1, ANSWER: 0, AUTHORITY: 1, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+*.tw.sandbox.deliveroo.com. IN A
+
+;; AUTHORITY SECTION:
+deliveroo.com. 3600 IN SOA mona.ns.cloudflare.com. dns.cloudflare.com. 2036403451 10000 2400 604800 3600
+
+
+;; Server: 192.43.161.22:53
+;; Size: 98
+;; Unix time: 1612714281
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 47154
+;; flags: qr rd ra ; QUERY: 1, ANSWER: 0, AUTHORITY: 1, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+sandbox.deliveroo.com. IN A
+
+;; AUTHORITY SECTION:
+deliveroo.com. 900 IN SOA mona.ns.cloudflare.com. dns.cloudflare.com. 2036403451 10000 2400 604800 3600
+
+
+;; Server: 119.160.208.251:53
+;; Size: 69
+;; Unix time: 1612714281
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 24967
+;; flags: qr rd ra ; QUERY: 1, ANSWER: 2, AUTHORITY: 0, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+www.deliveroo.co.uk. IN A
+
+;; ANSWER SECTION:
+www.deliveroo.co.uk. 299 IN A 104.18.19.124
+www.deliveroo.co.uk. 299 IN A 104.18.18.124
+
+
+;; Server: 202.86.8.100:53
+;; Size: 101
+;; Unix time: 1612714281
+;; ->>HEADER<<- opcode: QUERY, status: NXDOMAIN, id: 35572
+;; flags: qr rd ra ; QUERY: 1, ANSWER: 0, AUTHORITY: 1, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+nl.sandbox.deliveroo.com. IN A
+
+;; AUTHORITY SECTION:
+deliveroo.com. 3600 IN SOA mona.ns.cloudflare.com. dns.cloudflare.com. 2036403451 10000 2400 604800 3600
+
+
+;; Server: 119.160.208.252:53
+;; Size: 103
+;; Unix time: 1612714281
+;; ->>HEADER<<- opcode: QUERY, status: NXDOMAIN, id: 61419
+;; flags: qr rd ra ; QUERY: 1, ANSWER: 0, AUTHORITY: 1, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+*.it.sandbox.deliveroo.com. IN A
+
+;; AUTHORITY SECTION:
+deliveroo.com. 900 IN SOA mona.ns.cloudflare.com. dns.cloudflare.com. 2036403451 10000 2400 604800 3600
+
+
+;; Server: 203.146.237.237:53
+;; Size: 264
+;; Unix time: 1612714281
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 55586
+;; flags: qr rd ra ; QUERY: 1, ANSWER: 2, AUTHORITY: 2, ADDITIONAL: 6
+
+;; QUESTION SECTION:
+identity-sandbox.deliveroo.com. IN A
+
+;; ANSWER SECTION:
+identity-sandbox.deliveroo.com. 300 IN A 104.17.230.70
+identity-sandbox.deliveroo.com. 300 IN A 104.17.231.70
+
+;; AUTHORITY SECTION:
+deliveroo.com. 172800 IN NS phil.ns.cloudflare.com.
+deliveroo.com. 172800 IN NS mona.ns.cloudflare.com.
+
+;; ADDITIONAL SECTION:
+phil.ns.cloudflare.com. 310 IN A 173.245.59.137
+phil.ns.cloudflare.com. 310 IN A 108.162.193.137
+phil.ns.cloudflare.com. 310 IN A 172.64.33.137
+phil.ns.cloudflare.com. 310 IN AAAA 2a06:98c1:50::ac40:2189
+phil.ns.cloudflare.com. 310 IN AAAA 2606:4700:58::adf5:3b89
+phil.ns.cloudflare.com. 310 IN AAAA 2803:f800:50::6ca2:c189
+
+
+;; Server: 89.249.224.1:53
+;; Size: 328
+;; Unix time: 1612714281
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 27765
+;; flags: qr rd ; QUERY: 1, ANSWER: 0, AUTHORITY: 4, ADDITIONAL: 8
+
+;; QUESTION SECTION:
+deliveroo.plus. IN A
+
+;; AUTHORITY SECTION:
+plus. 97928 IN NS demand.gamma.aridns.net.au.
+plus. 97928 IN NS demand.beta.aridns.net.au.
+plus. 97928 IN NS demand.alpha.aridns.net.au.
+plus. 97928 IN NS demand.delta.aridns.net.au.
+
+;; ADDITIONAL SECTION:
+demand.beta.aridns.net.au. 76535 IN A 37.209.194.7
+demand.beta.aridns.net.au. 76535 IN AAAA 2001:dcd:2::7
+demand.alpha.aridns.net.au. 76535 IN A 37.209.192.7
+demand.alpha.aridns.net.au. 76535 IN AAAA 2001:dcd:1::7
+demand.delta.aridns.net.au. 76535 IN A 37.209.198.7
+demand.delta.aridns.net.au. 76535 IN AAAA 2001:dcd:4::7
+demand.gamma.aridns.net.au. 76535 IN A 37.209.196.7
+demand.gamma.aridns.net.au. 76535 IN AAAA 2001:dcd:3::7
+
+
+;; Server: 203.146.237.237:53
+;; Size: 249
+;; Unix time: 1612714281
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 479
+;; flags: qr rd ra ; QUERY: 1, ANSWER: 2, AUTHORITY: 2, ADDITIONAL: 6
+
+;; QUESTION SECTION:
+deliveroo.it. IN A
+
+;; ANSWER SECTION:
+deliveroo.it. 300 IN A 104.18.26.171
+deliveroo.it. 300 IN A 104.18.27.171
+
+;; AUTHORITY SECTION:
+deliveroo.it. 10800 IN NS phil.ns.cloudflare.com.
+deliveroo.it. 10800 IN NS mona.ns.cloudflare.com.
+
+;; ADDITIONAL SECTION:
+phil.ns.cloudflare.com. 310 IN A 108.162.193.137
+phil.ns.cloudflare.com. 310 IN A 172.64.33.137
+phil.ns.cloudflare.com. 310 IN A 173.245.59.137
+phil.ns.cloudflare.com. 310 IN AAAA 2606:4700:58::adf5:3b89
+phil.ns.cloudflare.com. 310 IN AAAA 2803:f800:50::6ca2:c189
+phil.ns.cloudflare.com. 310 IN AAAA 2a06:98c1:50::ac40:2189
+
+
+;; Server: 202.38.128.58:53
+;; Size: 103
+;; Unix time: 1612714281
+;; ->>HEADER<<- opcode: QUERY, status: NXDOMAIN, id: 7396
+;; flags: qr rd ra ; QUERY: 1, ANSWER: 0, AUTHORITY: 1, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+*.fr.staging.deliveroo.com. IN A
+
+;; AUTHORITY SECTION:
+deliveroo.com. 1799 IN SOA mona.ns.cloudflare.com. dns.cloudflare.com. 2036403451 10000 2400 604800 3600
+
+
+;; Server: 216.185.64.6:53
+;; Size: 62
+;; Unix time: 1612714281
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 42969
+;; flags: qr rd ra ; QUERY: 1, ANSWER: 2, AUTHORITY: 0, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+deliveroo.hk. IN A
+
+;; ANSWER SECTION:
+deliveroo.hk. 300 IN A 104.18.14.147
+deliveroo.hk. 300 IN A 104.18.15.147
+
+
+;; Server: 200.69.193.2:53
+;; Size: 36
+;; Unix time: 1612714281
+;; ->>HEADER<<- opcode: QUERY, status: SERVFAIL, id: 11431
+;; flags: qr rd ra ; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+*.de.deliveroo.com. IN A
+
+
+;; Server: 216.54.201.11:53
+;; Size: 385
+;; Unix time: 1612714281
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 29494
+;; flags: qr rd ra ; QUERY: 1, ANSWER: 2, AUTHORITY: 2, ADDITIONAL: 12
+
+;; QUESTION SECTION:
+deliveroo.com.kw. IN A
+
+;; ANSWER SECTION:
+deliveroo.com.kw. 300 IN A 104.18.9.242
+deliveroo.com.kw. 300 IN A 104.18.8.242
+
+;; AUTHORITY SECTION:
+deliveroo.com.kw. 7200 IN NS mona.ns.cloudflare.com.
+deliveroo.com.kw. 7200 IN NS phil.ns.cloudflare.com.
+
+;; ADDITIONAL SECTION:
+mona.ns.cloudflare.com. 111543 IN A 172.64.32.206
+mona.ns.cloudflare.com. 111543 IN A 173.245.58.206
+mona.ns.cloudflare.com. 111543 IN A 108.162.192.206
+mona.ns.cloudflare.com. 111543 IN AAAA 2a06:98c1:50::ac40:20ce
+mona.ns.cloudflare.com. 111543 IN AAAA 2606:4700:50::adf5:3ace
+mona.ns.cloudflare.com. 111543 IN AAAA 2803:f800:50::6ca2:c0ce
+phil.ns.cloudflare.com. 142556 IN A 173.245.59.137
+phil.ns.cloudflare.com. 142556 IN A 108.162.193.137
+phil.ns.cloudflare.com. 142556 IN A 172.64.33.137
+phil.ns.cloudflare.com. 107005 IN AAAA 2a06:98c1:50::ac40:2189
+phil.ns.cloudflare.com. 107005 IN AAAA 2606:4700:58::adf5:3b89
+phil.ns.cloudflare.com. 107005 IN AAAA 2803:f800:50::6ca2:c189
+
+
+;; Server: 212.49.128.65:53
+;; Size: 101
+;; Unix time: 1612714281
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 20782
+;; flags: qr rd ra ; QUERY: 1, ANSWER: 0, AUTHORITY: 1, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+es.staging.deliveroo.com. IN A
+
+;; AUTHORITY SECTION:
+deliveroo.com. 3600 IN SOA mona.ns.cloudflare.com. dns.cloudflare.com. 2036403451 10000 2400 604800 3600
+
+
+;; Server: 204.117.214.10:53
+;; Size: 124
+;; Unix time: 1612714281
+;; ->>HEADER<<- opcode: QUERY, status: NXDOMAIN, id: 58945
+;; flags: qr rd ra ; QUERY: 1, ANSWER: 0, AUTHORITY: 1, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+\x1b[92mcampaign.deliveroo.com\x1b[0m. IN A
+
+;; AUTHORITY SECTION:
+. 10800 IN SOA a.root-servers.net. nstld.verisign-grs.com. 2021020700 1800 900 604800 86400
+
+
+;; Server: 79.141.82.250:53
+;; Size: 99
+;; Unix time: 1612714281
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 6064
+;; flags: qr rd ra ; QUERY: 1, ANSWER: 0, AUTHORITY: 1, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+atlantis.deliveroo.com. IN A
+
+;; AUTHORITY SECTION:
+deliveroo.com. 3600 IN SOA mona.ns.cloudflare.com. dns.cloudflare.com. 2036403451 10000 2400 604800 3600
+
+
+;; Server: 202.180.160.1:53
+;; Size: 95
+;; Unix time: 1612714281
+;; ->>HEADER<<- opcode: QUERY, status: NXDOMAIN, id: 53265
+;; flags: qr rd ra ; QUERY: 1, ANSWER: 0, AUTHORITY: 1, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+*.kw.deliveroo.com. IN A
+
+;; AUTHORITY SECTION:
+deliveroo.com. 3600 IN SOA mona.ns.cloudflare.com. dns.cloudflare.com. 2036403451 10000 2400 604800 3600
+
+
+;; Server: 80.67.188.188:53
+;; Size: 103
+;; Unix time: 1612714281
+;; ->>HEADER<<- opcode: QUERY, status: NXDOMAIN, id: 48830
+;; flags: qr rd ra ; QUERY: 1, ANSWER: 0, AUTHORITY: 1, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+*.be.staging.deliveroo.com. IN A
+
+;; AUTHORITY SECTION:
+deliveroo.com. 3600 IN SOA mona.ns.cloudflare.com. dns.cloudflare.com. 2036403451 10000 2400 604800 3600
+
+
+;; Server: 62.196.2.70:53
+;; Size: 124
+;; Unix time: 1612714281
+;; ->>HEADER<<- opcode: QUERY, status: NXDOMAIN, id: 7781
+;; flags: qr rd ra ; QUERY: 1, ANSWER: 0, AUTHORITY: 1, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+\x1b[92midentity.deliveroo.com\x1b[0m. IN A
+
+;; AUTHORITY SECTION:
+. 10800 IN SOA a.root-servers.net. nstld.verisign-grs.com. 2021020700 1800 900 604800 86400
+
+
+;; Server: 212.85.32.3:53
+;; Size: 34
+;; Unix time: 1612714281
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 30189
+;; flags: qr rd ; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+deliveroo.com.hk. IN A
+
+
+;; Server: 129.250.35.250:53
+;; Size: 98
+;; Unix time: 1612714281
+;; ->>HEADER<<- opcode: QUERY, status: NXDOMAIN, id: 63044
+;; flags: qr rd ra ; QUERY: 1, ANSWER: 0, AUTHORITY: 1, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+*.deliveroo.com.au. IN A
+
+;; AUTHORITY SECTION:
+deliveroo.com.au. 3600 IN SOA mona.ns.cloudflare.com. dns.cloudflare.com. 2036263956 10000 2400 604800 3600
+
+
+;; Server: 195.113.144.194:53
+;; Size: 101
+;; Unix time: 1612714281
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 58816
+;; flags: qr rd ra ; QUERY: 1, ANSWER: 0, AUTHORITY: 1, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+ae.staging.deliveroo.com. IN A
+
+;; AUTHORITY SECTION:
+deliveroo.com. 3512 IN SOA mona.ns.cloudflare.com. dns.cloudflare.com. 2036403451 10000 2400 604800 3600
+
+
+;; Server: 209.143.0.10:53
+;; Size: 247
+;; Unix time: 1612714281
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 45756
+;; flags: qr rd ra ; QUERY: 1, ANSWER: 1, AUTHORITY: 3, ADDITIONAL: 6
+
+;; QUESTION SECTION:
+deliveroogoldcard.fr. IN A
+
+;; ANSWER SECTION:
+deliveroogoldcard.fr. 10800 IN A 217.70.184.38
+
+;; AUTHORITY SECTION:
+deliveroogoldcard.fr. 172800 IN NS a.dns.gandi.net.
+deliveroogoldcard.fr. 172800 IN NS c.dns.gandi.net.
+deliveroogoldcard.fr. 172800 IN NS b.dns.gandi.net.
+
+;; ADDITIONAL SECTION:
+b.dns.gandi.net. 40577 IN A 213.167.229.1
+a.dns.gandi.net. 40577 IN A 173.246.98.1
+c.dns.gandi.net. 40577 IN A 217.70.179.1
+b.dns.gandi.net. 40577 IN AAAA 2001:4b98:abcb::1
+a.dns.gandi.net. 40577 IN AAAA 2604:3400:abca::1
+c.dns.gandi.net. 40577 IN AAAA 2604:3400:abcc::1
+
+
+;; Server: 194.6.240.1:53
+;; Size: 103
+;; Unix time: 1612714281
+;; ->>HEADER<<- opcode: QUERY, status: NXDOMAIN, id: 29242
+;; flags: qr rd ra ; QUERY: 1, ANSWER: 0, AUTHORITY: 1, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+*.il.staging.deliveroo.com. IN A
+
+;; AUTHORITY SECTION:
+deliveroo.com. 3600 IN SOA mona.ns.cloudflare.com. dns.cloudflare.com. 2036403451 10000 2400 604800 3600
+
+
+;; Server: 212.102.225.2:53
+;; Size: 103
+;; Unix time: 1612714281
+;; ->>HEADER<<- opcode: QUERY, status: NXDOMAIN, id: 11432
+;; flags: qr aa rd ra ; QUERY: 1, ANSWER: 0, AUTHORITY: 1, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+*.de.staging.deliveroo.com. IN A
+
+;; AUTHORITY SECTION:
+deliveroo.com. 3600 IN SOA mona.ns.cloudflare.com. dns.cloudflare.com. 2036403451 10000 2400 604800 3600
+
+
+;; Server: 210.94.0.7:53
+;; Size: 79
+;; Unix time: 1612714281
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 8125
+;; flags: qr rd ra ; QUERY: 1, ANSWER: 2, AUTHORITY: 0, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+consumer-ow-api.deliveroo.com. IN A
+
+;; ANSWER SECTION:
+consumer-ow-api.deliveroo.com. 300 IN A 104.17.231.70
+consumer-ow-api.deliveroo.com. 300 IN A 104.17.230.70
+
+
+;; Server: 62.37.225.57:53
+;; Size: 83
+;; Unix time: 1612714281
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 17613
+;; flags: qr rd ra ; QUERY: 1, ANSWER: 2, AUTHORITY: 0, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+restaurants-staging.deliveroo.com. IN A
+
+;; ANSWER SECTION:
+restaurants-staging.deliveroo.com. 300 IN A 104.17.231.70
+restaurants-staging.deliveroo.com. 300 IN A 104.17.230.70
+
+
+;; Server: 194.20.0.24:53
+;; Size: 117
+;; Unix time: 1612714281
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 7058
+;; flags: qr rd ra ; QUERY: 1, ANSWER: 2, AUTHORITY: 2, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+deliveroo.ae. IN A
+
+;; ANSWER SECTION:
+deliveroo.ae. 300 IN A 104.16.86.82
+deliveroo.ae. 300 IN A 104.16.11.43
+
+;; AUTHORITY SECTION:
+deliveroo.ae. 3600 IN NS phil.ns.cloudflare.com.
+deliveroo.ae. 3600 IN NS mona.ns.cloudflare.com.
+
+
+;; Server: 91.207.40.2:53
+;; Size: 504
+;; Unix time: 1612714281
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 44367
+;; flags: qr rd ; QUERY: 1, ANSWER: 0, AUTHORITY: 13, ADDITIONAL: 11
+
+;; QUESTION SECTION:
+\x1b[92midentity-staging.deliveroo.com\x1b[0m. IN A
+
+;; AUTHORITY SECTION:
+. 92688 IN NS d.root-servers.net.
+. 92688 IN NS e.root-servers.net.
+. 92688 IN NS f.root-servers.net.
+. 92688 IN NS g.root-servers.net.
+. 92688 IN NS h.root-servers.net.
+. 92688 IN NS i.root-servers.net.
+. 92688 IN NS j.root-servers.net.
+. 92688 IN NS k.root-servers.net.
+. 92688 IN NS l.root-servers.net.
+. 92688 IN NS m.root-servers.net.
+. 92688 IN NS a.root-servers.net.
+. 92688 IN NS b.root-servers.net.
+. 92688 IN NS c.root-servers.net.
+
+;; ADDITIONAL SECTION:
+a.root-servers.net. 92688 IN A 198.41.0.4
+a.root-servers.net. 92688 IN AAAA 2001:503:ba3e::2:30
+b.root-servers.net. 92688 IN A 199.9.14.201
+b.root-servers.net. 92688 IN AAAA 2001:500:200::b
+c.root-servers.net. 92688 IN A 192.33.4.12
+c.root-servers.net. 92688 IN AAAA 2001:500:2::c
+d.root-servers.net. 92688 IN A 199.7.91.13
+d.root-servers.net. 92688 IN AAAA 2001:500:2d::d
+e.root-servers.net. 92688 IN A 192.203.230.10
+e.root-servers.net. 92688 IN AAAA 2001:500:a8::e
+f.root-servers.net. 92688 IN A 192.5.5.241
+
+
+;; Server: 194.190.225.2:53
+;; Size: 39
+;; Unix time: 1612714281
+;; ->>HEADER<<- opcode: QUERY, status: SERVFAIL, id: 3232
+;; flags: qr rd ra ; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+it.corp.deliveroo.com. IN A
+
+
+;; Server: 83.137.41.9:53
+;; Size: 95
+;; Unix time: 1612714281
+;; ->>HEADER<<- opcode: QUERY, status: NXDOMAIN, id: 56653
+;; flags: qr rd ra ; QUERY: 1, ANSWER: 0, AUTHORITY: 1, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+*.tw.deliveroo.com. IN A
+
+;; AUTHORITY SECTION:
+deliveroo.com. 3600 IN SOA mona.ns.cloudflare.com. dns.cloudflare.com. 2036403451 10000 2400 604800 3600
+
+
+;; Server: 147.29.10.55:53
+;; Size: 509
+;; Unix time: 1612714281
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 54552
+;; flags: qr rd ; QUERY: 1, ANSWER: 0, AUTHORITY: 13, ADDITIONAL: 15
+
+;; QUESTION SECTION:
+de.deliveroo.com. IN A
+
+;; AUTHORITY SECTION:
+. 246251 IN NS f.root-servers.net.
+. 246251 IN NS c.root-servers.net.
+. 246251 IN NS k.root-servers.net.
+. 246251 IN NS d.root-servers.net.
+. 246251 IN NS a.root-servers.net.
+. 246251 IN NS g.root-servers.net.
+. 246251 IN NS b.root-servers.net.
+. 246251 IN NS l.root-servers.net.
+. 246251 IN NS m.root-servers.net.
+. 246251 IN NS e.root-servers.net.
+. 246251 IN NS j.root-servers.net.
+. 246251 IN NS i.root-servers.net.
+. 246251 IN NS h.root-servers.net.
+
+;; ADDITIONAL SECTION:
+a.root-servers.net. 246251 IN A 198.41.0.4
+b.root-servers.net. 246251 IN A 199.9.14.201
+c.root-servers.net. 246251 IN A 192.33.4.12
+d.root-servers.net. 246251 IN A 199.7.91.13
+e.root-servers.net. 246251 IN A 192.203.230.10
+f.root-servers.net. 246251 IN A 192.5.5.241
+g.root-servers.net. 246251 IN A 192.112.36.4
+h.root-servers.net. 246251 IN A 198.97.190.53
+i.root-servers.net. 246251 IN A 192.36.148.17
+j.root-servers.net. 246251 IN A 192.58.128.30
+k.root-servers.net. 246251 IN A 193.0.14.129
+l.root-servers.net. 246251 IN A 199.7.83.42
+m.root-servers.net. 246251 IN A 202.12.27.33
+a.root-servers.net. 246251 IN AAAA 2001:503:ba3e::2:30
+b.root-servers.net. 246251 IN AAAA 2001:500:200::b
+
+
+;; Server: 195.129.12.83:53
+;; Size: 151
+;; Unix time: 1612714281
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 13611
+;; flags: qr rd ra ; QUERY: 1, ANSWER: 3, AUTHORITY: 0, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+ad.corp.deliveroo.com. IN A
+
+;; ANSWER SECTION:
+ad.corp.deliveroo.com. 900 IN CNAME it-produc-rdgatewa-9379ba0echib-872471689.eu-west-1.elb.amazonaws.com.
+it-produc-rdgatewa-9379ba0echib-872471689.eu-west-1.elb.amazonaws.com. 60 IN A 34.243.169.23
+it-produc-rdgatewa-9379ba0echib-872471689.eu-west-1.elb.amazonaws.com. 60 IN A 54.154.61.155
+
+
+;; Server: 216.52.126.1:53
+;; Size: 101
+;; Unix time: 1612714281
+;; ->>HEADER<<- opcode: QUERY, status: NXDOMAIN, id: 55539
+;; flags: qr rd ra ; QUERY: 1, ANSWER: 0, AUTHORITY: 1, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+il.sandbox.deliveroo.com. IN A
+
+;; AUTHORITY SECTION:
+deliveroo.com. 3600 IN SOA mona.ns.cloudflare.com. dns.cloudflare.com. 2036403451 10000 2400 604800 3600
+
+
+;; Server: 193.58.251.251:53
+;; Size: 118
+;; Unix time: 1612714281
+;; ->>HEADER<<- opcode: QUERY, status: NXDOMAIN, id: 60931
+;; flags: qr rd ra ; QUERY: 1, ANSWER: 0, AUTHORITY: 1, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+webmail.notamail.eucampaign.deliveroo.com. IN A
+
+;; AUTHORITY SECTION:
+deliveroo.com. 3512 IN SOA mona.ns.cloudflare.com. dns.cloudflare.com. 2036403451 10000 2400 604800 3600
+
+
+;; Server: 62.129.252.215:53
+;; Size: 101
+;; Unix time: 1612714281
+;; ->>HEADER<<- opcode: QUERY, status: NXDOMAIN, id: 5555
+;; flags: qr rd ra ; QUERY: 1, ANSWER: 0, AUTHORITY: 1, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+uk.sandbox.deliveroo.com. IN A
+
+;; AUTHORITY SECTION:
+deliveroo.com. 600 IN SOA mona.ns.cloudflare.com. dns.cloudflare.com. 2036403451 10000 2400 604800 3600
+
+
+;; Server: 199.80.64.202:53
+;; Size: 248
+;; Unix time: 1612714281
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 16762
+;; flags: qr rd ; QUERY: 1, ANSWER: 0, AUTHORITY: 13, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+agent.deliveroo.com. IN A
+
+;; AUTHORITY SECTION:
+. 518400 IN NS e.root-servers.net.
+. 518400 IN NS f.root-servers.net.
+. 518400 IN NS g.root-servers.net.
+. 518400 IN NS h.root-servers.net.
+. 518400 IN NS i.root-servers.net.
+. 518400 IN NS j.root-servers.net.
+. 518400 IN NS k.root-servers.net.
+. 518400 IN NS l.root-servers.net.
+. 518400 IN NS m.root-servers.net.
+. 518400 IN NS a.root-servers.net.
+. 518400 IN NS b.root-servers.net.
+. 518400 IN NS c.root-servers.net.
+. 518400 IN NS d.root-servers.net.
+
+
+;; Server: 216.185.64.6:53
+;; Size: 70
+;; Unix time: 1612714281
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 24212
+;; flags: qr rd ra ; QUERY: 1, ANSWER: 2, AUTHORITY: 0, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+api.tw.deliveroo.com. IN A
+
+;; ANSWER SECTION:
+api.tw.deliveroo.com. 300 IN A 104.17.231.70
+api.tw.deliveroo.com. 300 IN A 104.17.230.70
+
+
+;; Server: 165.87.201.244:53
+;; Size: 73
+;; Unix time: 1612714281
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 64477
+;; flags: qr rd ra ; QUERY: 1, ANSWER: 2, AUTHORITY: 0, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+self-help.deliveroo.com. IN A
+
+;; ANSWER SECTION:
+self-help.deliveroo.com. 300 IN A 104.17.231.70
+self-help.deliveroo.com. 300 IN A 104.17.230.70
+
+
+;; Server: 91.214.72.33:53
+;; Size: 119
+;; Unix time: 1612714281
+;; ->>HEADER<<- opcode: QUERY, status: NXDOMAIN, id: 50267
+;; flags: qr rd ra ; QUERY: 1, ANSWER: 0, AUTHORITY: 1, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+\x1b[92mapi.deliveroo.com\x1b[0m. IN A
+
+;; AUTHORITY SECTION:
+. 10800 IN SOA a.root-servers.net. nstld.verisign-grs.com. 2021020700 1800 900 604800 86400
+
+
+;; Server: 170.56.58.53:53
+;; Size: 125
+;; Unix time: 1612714281
+;; ->>HEADER<<- opcode: QUERY, status: NXDOMAIN, id: 18498
+;; flags: qr rd ra ; QUERY: 1, ANSWER: 0, AUTHORITY: 1, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+\x1b[92mimage.b2b.deliveroo.com\x1b[0m. IN A
+
+;; AUTHORITY SECTION:
+. 10800 IN SOA a.root-servers.net. nstld.verisign-grs.com. 2021020700 1800 900 604800 86400
+
+
+;; Server: 216.254.141.2:53
+;; Size: 79
+;; Unix time: 1612714281
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 50119
+;; flags: qr rd ra ; QUERY: 1, ANSWER: 2, AUTHORITY: 0, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+support-staging.deliveroo.com. IN A
+
+;; ANSWER SECTION:
+support-staging.deliveroo.com. 300 IN A 104.17.231.70
+support-staging.deliveroo.com. 300 IN A 104.17.230.70
+
+
+;; Server: 69.25.1.1:53
+;; Size: 103
+;; Unix time: 1612714281
+;; ->>HEADER<<- opcode: QUERY, status: NXDOMAIN, id: 5308
+;; flags: qr rd ra ; QUERY: 1, ANSWER: 0, AUTHORITY: 1, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+*.uk.sandbox.deliveroo.com. IN A
+
+;; AUTHORITY SECTION:
+deliveroo.com. 3600 IN SOA mona.ns.cloudflare.com. dns.cloudflare.com. 2036403451 10000 2400 604800 3600
+
+
+;; Server: 216.52.169.1:53
+;; Size: 103
+;; Unix time: 1612714281
+;; ->>HEADER<<- opcode: QUERY, status: NXDOMAIN, id: 33694
+;; flags: qr rd ra ; QUERY: 1, ANSWER: 0, AUTHORITY: 1, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+*.nl.sandbox.deliveroo.com. IN A
+
+;; AUTHORITY SECTION:
+deliveroo.com. 3600 IN SOA mona.ns.cloudflare.com. dns.cloudflare.com. 2036403451 10000 2400 604800 3600
+
+
+;; Server: 63.251.161.33:53
+;; Size: 386
+;; Unix time: 1612714281
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 57831
+;; flags: qr rd ra ; QUERY: 1, ANSWER: 2, AUTHORITY: 2, ADDITIONAL: 12
+
+;; QUESTION SECTION:
+api.au.deliveroo.com. IN A
+
+;; ANSWER SECTION:
+api.au.deliveroo.com. 300 IN A 104.17.231.70
+api.au.deliveroo.com. 300 IN A 104.17.230.70
+
+;; AUTHORITY SECTION:
+deliveroo.com. 172800 IN NS phil.ns.cloudflare.com.
+deliveroo.com. 172800 IN NS mona.ns.cloudflare.com.
+
+;; ADDITIONAL SECTION:
+mona.ns.cloudflare.com. 75463 IN A 173.245.58.206
+mona.ns.cloudflare.com. 75463 IN A 108.162.192.206
+mona.ns.cloudflare.com. 75463 IN A 172.64.32.206
+phil.ns.cloudflare.com. 35682 IN A 172.64.33.137
+phil.ns.cloudflare.com. 35682 IN A 173.245.59.137
+phil.ns.cloudflare.com. 35682 IN A 108.162.193.137
+mona.ns.cloudflare.com. 75463 IN AAAA 2606:4700:50::adf5:3ace
+mona.ns.cloudflare.com. 75463 IN AAAA 2803:f800:50::6ca2:c0ce
+mona.ns.cloudflare.com. 75463 IN AAAA 2a06:98c1:50::ac40:20ce
+phil.ns.cloudflare.com. 35682 IN AAAA 2a06:98c1:50::ac40:2189
+phil.ns.cloudflare.com. 35682 IN AAAA 2606:4700:58::adf5:3b89
+phil.ns.cloudflare.com. 35682 IN AAAA 2803:f800:50::6ca2:c189
+
+
+;; Server: 62.76.76.62:53
+;; Size: 95
+;; Unix time: 1612714281
+;; ->>HEADER<<- opcode: QUERY, status: NXDOMAIN, id: 3292
+;; flags: qr rd ra ; QUERY: 1, ANSWER: 0, AUTHORITY: 1, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+*.sg.deliveroo.com. IN A
+
+;; AUTHORITY SECTION:
+deliveroo.com. 3600 IN SOA mona.ns.cloudflare.com. dns.cloudflare.com. 2036403451 10000 2400 604800 3600
+
+
+;; Server: 210.2.4.8:53
+;; Size: 101
+;; Unix time: 1612714281
+;; ->>HEADER<<- opcode: QUERY, status: NXDOMAIN, id: 53521
+;; flags: qr rd ra ; QUERY: 1, ANSWER: 0, AUTHORITY: 1, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+sg.sandbox.deliveroo.com. IN A
+
+;; AUTHORITY SECTION:
+deliveroo.com. 3600 IN SOA mona.ns.cloudflare.com. dns.cloudflare.com. 2036403451 10000 2400 604800 3600
+
+
+;; Server: 194.25.0.52:53
+;; Size: 101
+;; Unix time: 1612714281
+;; ->>HEADER<<- opcode: QUERY, status: NXDOMAIN, id: 28513
+;; flags: qr rd ra ; QUERY: 1, ANSWER: 0, AUTHORITY: 1, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+ae.sandbox.deliveroo.com. IN A
+
+;; AUTHORITY SECTION:
+deliveroo.com. 3600 IN SOA mona.ns.cloudflare.com. dns.cloudflare.com. 2036403451 10000 2400 604800 3600
+
+
+;; Server: 170.56.58.53:53
+;; Size: 101
+;; Unix time: 1612714281
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 59933
+;; flags: qr rd ra ; QUERY: 1, ANSWER: 0, AUTHORITY: 1, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+it.staging.deliveroo.com. IN A
+
+;; AUTHORITY SECTION:
+deliveroo.com. 3600 IN SOA mona.ns.cloudflare.com. dns.cloudflare.com. 2036403451 10000 2400 604800 3600
+
+
+;; Server: 212.85.112.32:53
+;; Size: 67
+;; Unix time: 1612714281
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 3875
+;; flags: qr rd ra ; QUERY: 1, ANSWER: 2, AUTHORITY: 0, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+www.deliveroo.com. IN A
+
+;; ANSWER SECTION:
+www.deliveroo.com. 300 IN A 104.17.231.70
+www.deliveroo.com. 300 IN A 104.17.230.70
+
+
+;; Server: 24.154.1.4:53
+;; Size: 117
+;; Unix time: 1612714281
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 28501
+;; flags: qr rd ra ; QUERY: 1, ANSWER: 2, AUTHORITY: 2, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+deliveroo.be. IN A
+
+;; ANSWER SECTION:
+deliveroo.be. 300 IN A 104.17.174.71
+deliveroo.be. 300 IN A 104.17.175.71
+
+;; AUTHORITY SECTION:
+deliveroo.be. 86400 IN NS phil.ns.cloudflare.com.
+deliveroo.be. 86400 IN NS mona.ns.cloudflare.com.
+
+
+;; Server: 63.251.161.1:53
+;; Size: 493
+;; Unix time: 1612714281
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 14904
+;; flags: qr rd ra ; QUERY: 1, ANSWER: 6, AUTHORITY: 8, ADDITIONAL: 9
+
+;; QUESTION SECTION:
+go.deliveroo.com. IN A
+
+;; ANSWER SECTION:
+go.deliveroo.com. 3600 IN CNAME go.pardot.com.
+go.pardot.com. 2443 IN CNAME pi.pardot.com.
+pi.pardot.com. 148 IN CNAME pi-ue1.pardot.com.
+pi-ue1.pardot.com. 534 IN CNAME pi.t.pardot.com.
+pi.t.pardot.com. 30 IN CNAME pi-ue1-lba1.pardot.com.
+pi-ue1-lba1.pardot.com. 900 IN A 52.202.69.186
+
+;; AUTHORITY SECTION:
+pardot.com. 148174 IN NS dns4.p06.nsone.net.
+pardot.com. 148174 IN NS dns3.p06.nsone.net.
+pardot.com. 148174 IN NS dns1.p06.nsone.net.
+pardot.com. 148174 IN NS dns2.p06.nsone.net.
+pardot.com. 148174 IN NS ns04.salesforce-dns.com.
+pardot.com. 148174 IN NS ns02.salesforce-dns.com.
+pardot.com. 148174 IN NS ns03.salesforce-dns.com.
+pardot.com. 148174 IN NS ns01.salesforce-dns.com.
+
+;; ADDITIONAL SECTION:
+dns1.p06.nsone.net. 61475 IN A 198.51.44.6
+dns2.p06.nsone.net. 61475 IN A 198.51.45.6
+dns3.p06.nsone.net. 61475 IN A 198.51.44.70
+dns4.p06.nsone.net. 61475 IN A 198.51.45.70
+ns01.salesforce-dns.com. 148174 IN A 45.54.69.1
+ns02.salesforce-dns.com. 148174 IN A 45.54.69.65
+ns03.salesforce-dns.com. 148174 IN A 45.54.69.129
+ns04.salesforce-dns.com. 148174 IN A 45.54.69.193
+dns1.p06.nsone.net. 61475 IN AAAA 2620:4d:4000:6259:7:6:0:1
+
+
+;; Server: 212.236.250.4:53
+;; Size: 63
+;; Unix time: 1612714281
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 23865
+;; flags: qr rd ra ; QUERY: 1, ANSWER: 2, AUTHORITY: 0, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+deliveroo.com. IN A
+
+;; ANSWER SECTION:
+deliveroo.com. 300 IN A 104.17.231.70
+deliveroo.com. 300 IN A 104.17.230.70
+
+
+;; Server: 62.37.225.56:53
+;; Size: 124
+;; Unix time: 1612714281
+;; ->>HEADER<<- opcode: QUERY, status: NXDOMAIN, id: 58656
+;; flags: qr rd ra ; QUERY: 1, ANSWER: 0, AUTHORITY: 1, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+\x1b[92mview.b2b.deliveroo.com\x1b[0m. IN A
+
+;; AUTHORITY SECTION:
+. 900 IN SOA a.root-servers.net. nstld.verisign-grs.com. 2021020700 1800 900 604800 86400
+
+
+;; Server: 198.60.22.2:53
+;; Size: 103
+;; Unix time: 1612714281
+;; ->>HEADER<<- opcode: QUERY, status: NXDOMAIN, id: 3308
+;; flags: qr rd ra ; QUERY: 1, ANSWER: 0, AUTHORITY: 1, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+*.au.staging.deliveroo.com. IN A
+
+;; AUTHORITY SECTION:
+deliveroo.com. 3600 IN SOA mona.ns.cloudflare.com. dns.cloudflare.com. 2036403451 10000 2400 604800 3600
+
+
+;; Server: 192.43.161.22:53
+;; Size: 101
+;; Unix time: 1612714281
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 21836
+;; flags: qr rd ra ; QUERY: 1, ANSWER: 0, AUTHORITY: 1, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+au.staging.deliveroo.com. IN A
+
+;; AUTHORITY SECTION:
+deliveroo.com. 900 IN SOA mona.ns.cloudflare.com. dns.cloudflare.com. 2036403451 10000 2400 604800 3600
+
+
+;; Server: 165.87.13.129:53
+;; Size: 73
+;; Unix time: 1612714281
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 54502
+;; flags: qr rd ra ; QUERY: 1, ANSWER: 2, AUTHORITY: 0, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+rider-api.deliveroo.com. IN A
+
+;; ANSWER SECTION:
+rider-api.deliveroo.com. 300 IN A 104.17.230.70
+rider-api.deliveroo.com. 300 IN A 104.17.231.70
+
+
+;; Server: 69.146.17.3:53
+;; Size: 56
+;; Unix time: 1612714281
+;; ->>HEADER<<- opcode: QUERY, status: NXDOMAIN, id: 60556
+;; flags: qr rd ra ; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+\x1b[92mrestaurantperks.deliveroo.com\x1b[0m. IN A
+
+
+;; Server: 84.200.70.40:53
+;; Size: 95
+;; Unix time: 1612714281
+;; ->>HEADER<<- opcode: QUERY, status: NXDOMAIN, id: 26117
+;; flags: qr rd ra ; QUERY: 1, ANSWER: 0, AUTHORITY: 1, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+*.fr.deliveroo.com. IN A
+
+;; AUTHORITY SECTION:
+deliveroo.com. 3600 IN SOA mona.ns.cloudflare.com. dns.cloudflare.com. 2036403451 10000 2400 604800 3600
+
+
+;; Server: 194.25.0.52:53
+;; Size: 119
+;; Unix time: 1612714281
+;; ->>HEADER<<- opcode: QUERY, status: NXDOMAIN, id: 11585
+;; flags: qr rd ra ; QUERY: 1, ANSWER: 0, AUTHORITY: 1, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+\x1b[92mwww.deliveroo.com\x1b[0m. IN A
+
+;; AUTHORITY SECTION:
+. 3600 IN SOA a.root-servers.net. nstld.verisign-grs.com. 2021020700 1800 900 604800 86400
+
+
+;; Server: 193.230.183.201:53
+;; Size: 92
+;; Unix time: 1612714281
+;; ->>HEADER<<- opcode: QUERY, status: NXDOMAIN, id: 3345
+;; flags: qr rd ra ; QUERY: 1, ANSWER: 0, AUTHORITY: 1, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+*.deliveroo.com. IN A
+
+;; AUTHORITY SECTION:
+deliveroo.com. 3600 IN SOA mona.ns.cloudflare.com. dns.cloudflare.com. 2036403451 10000 2400 604800 3600
+
+
+;; Server: 200.95.144.3:53
+;; Size: 38
+;; Unix time: 1612714281
+;; ->>HEADER<<- opcode: QUERY, status: SERVFAIL, id: 51253
+;; flags: qr rd ra ; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+www.deliveroo.design. IN A
+
+
+;; Server: 211.63.64.11:53
+;; Size: 93
+;; Unix time: 1612714281
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 46913
+;; flags: qr rd ra ; QUERY: 1, ANSWER: 0, AUTHORITY: 1, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+ae.deliveroo.com. IN A
+
+;; AUTHORITY SECTION:
+deliveroo.com. 3600 IN SOA mona.ns.cloudflare.com. dns.cloudflare.com. 2036403451 10000 2400 604800 3600
+
+
+;; Server: 211.237.65.21:53
+;; Size: 101
+;; Unix time: 1612714281
+;; ->>HEADER<<- opcode: QUERY, status: NXDOMAIN, id: 18608
+;; flags: qr rd ra ; QUERY: 1, ANSWER: 0, AUTHORITY: 1, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+au.sandbox.deliveroo.com. IN A
+
+;; AUTHORITY SECTION:
+deliveroo.com. 3600 IN SOA mona.ns.cloudflare.com. dns.cloudflare.com. 2036403451 10000 2400 604800 3600
+
+
+;; Server: 203.248.252.2:53
+;; Size: 71
+;; Unix time: 1612714281
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 46048
+;; flags: qr rd ra ; QUERY: 1, ANSWER: 2, AUTHORITY: 0, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+support.deliveroo.com. IN A
+
+;; ANSWER SECTION:
+support.deliveroo.com. 300 IN A 104.17.231.70
+support.deliveroo.com. 300 IN A 104.17.230.70
+
+
+;; Server: 211.115.194.3:53
+;; Size: 103
+;; Unix time: 1612714281
+;; ->>HEADER<<- opcode: QUERY, status: NXDOMAIN, id: 49964
+;; flags: qr rd ra ; QUERY: 1, ANSWER: 0, AUTHORITY: 1, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+*.de.sandbox.deliveroo.com. IN A
+
+;; AUTHORITY SECTION:
+deliveroo.com. 3600 IN SOA mona.ns.cloudflare.com. dns.cloudflare.com. 2036403451 10000 2400 604800 3600
+
+
+;; Server: 85.132.32.42:53
+;; Size: 205
+;; Unix time: 1612714281
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 42315
+;; flags: qr rd ra ; QUERY: 1, ANSWER: 1, AUTHORITY: 4, ADDITIONAL: 4
+
+;; QUESTION SECTION:
+click.b2b.deliveroo.com. IN A
+
+;; ANSWER SECTION:
+click.b2b.deliveroo.com. 3600 IN A 161.71.59.130
+
+;; AUTHORITY SECTION:
+b2b.deliveroo.com. 300 IN NS ns4.exacttarget.com.
+b2b.deliveroo.com. 300 IN NS ns3.exacttarget.com.
+b2b.deliveroo.com. 300 IN NS ns1.exacttarget.com.
+b2b.deliveroo.com. 300 IN NS ns2.exacttarget.com.
+
+;; ADDITIONAL SECTION:
+ns2.exacttarget.com. 2371 IN A 66.231.94.222
+ns3.exacttarget.com. 172800 IN A 68.232.203.115
+ns4.exacttarget.com. 123204 IN A 136.147.129.78
+ns1.exacttarget.com. 2371 IN A 66.231.91.222
+
+
+;; Server: 195.69.65.98:53
+;; Size: 93
+;; Unix time: 1612714281
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 10579
+;; flags: qr rd ra ; QUERY: 1, ANSWER: 0, AUTHORITY: 1, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+nl.deliveroo.com. IN A
+
+;; AUTHORITY SECTION:
+deliveroo.com. 1799 IN SOA mona.ns.cloudflare.com. dns.cloudflare.com. 2036403451 10000 2400 604800 3600
+
+
+;; Server: 216.244.192.3:53
+;; Size: 47
+;; Unix time: 1612714282
+;; ->>HEADER<<- opcode: QUERY, status: SERVFAIL, id: 28180
+;; flags: qr rd ra ; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+\x1b[92mapi.sg.deliveroo.com\x1b[0m. IN A
+
+
+;; Server: 192.172.250.8:53
+;; Size: 209
+;; Unix time: 1612714282
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 30828
+;; flags: qr rd ra ; QUERY: 1, ANSWER: 4, AUTHORITY: 0, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+deliveroo.co.uk.us3.cas.ms. IN A
+
+;; ANSWER SECTION:
+deliveroo.co.uk.us3.cas.ms. 300 IN CNAME us3.cas.ms.
+us3.cas.ms. 30 IN CNAME prdp-1-nginxnode-main.trafficmanager.net.
+prdp-1-nginxnode-main.trafficmanager.net. 30 IN CNAME prod-4-pcc-nginxnode-lb1.canadacentral.cloudapp.azure.com.
+prod-4-pcc-nginxnode-lb1.canadacentral.cloudapp.azure.com. 10 IN A 40.82.187.199
+
+
+;; Server: 200.69.193.2:53
+;; Size: 34
+;; Unix time: 1612714282
+;; ->>HEADER<<- opcode: QUERY, status: SERVFAIL, id: 35836
+;; flags: qr rd ra ; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+be.deliveroo.com. IN A
+
+
+;; Server: 195.146.81.130:53
+;; Size: 494
+;; Unix time: 1612714282
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 23033
+;; flags: qr rd ; QUERY: 1, ANSWER: 0, AUTHORITY: 13, ADDITIONAL: 14
+
+;; QUESTION SECTION:
+hk.deliveroo.com. IN A
+
+;; AUTHORITY SECTION:
+com. 8490 IN NS f.gtld-servers.net.
+com. 8490 IN NS e.gtld-servers.net.
+com. 8490 IN NS j.gtld-servers.net.
+com. 8490 IN NS c.gtld-servers.net.
+com. 8490 IN NS a.gtld-servers.net.
+com. 8490 IN NS d.gtld-servers.net.
+com. 8490 IN NS g.gtld-servers.net.
+com. 8490 IN NS m.gtld-servers.net.
+com. 8490 IN NS k.gtld-servers.net.
+com. 8490 IN NS i.gtld-servers.net.
+com. 8490 IN NS b.gtld-servers.net.
+com. 8490 IN NS h.gtld-servers.net.
+com. 8490 IN NS l.gtld-servers.net.
+
+;; ADDITIONAL SECTION:
+k.gtld-servers.net. 37224 IN A 192.52.178.30
+b.gtld-servers.net. 29355 IN A 192.33.14.30
+g.gtld-servers.net. 69027 IN A 192.42.93.30
+c.gtld-servers.net. 36943 IN A 192.26.92.30
+m.gtld-servers.net. 75911 IN A 192.55.83.30
+a.gtld-servers.net. 53552 IN A 192.5.6.30
+j.gtld-servers.net. 43448 IN A 192.48.79.30
+f.gtld-servers.net. 55552 IN A 192.35.51.30
+i.gtld-servers.net. 56331 IN A 192.43.172.30
+e.gtld-servers.net. 38640 IN A 192.12.94.30
+l.gtld-servers.net. 62090 IN A 192.41.162.30
+h.gtld-servers.net. 38033 IN A 192.54.112.30
+d.gtld-servers.net. 48911 IN A 192.31.80.30
+k.gtld-servers.net. 37225 IN AAAA 2001:503:d2d::30
+
+
+;; Server: 212.96.1.70:53
+;; Size: 76
+;; Unix time: 1612714282
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 21449
+;; flags: qr rd ra ; QUERY: 1, ANSWER: 2, AUTHORITY: 0, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+rider-ow-api.deliveroo.com. IN A
+
+;; ANSWER SECTION:
+rider-ow-api.deliveroo.com. 300 IN A 104.17.230.70
+rider-ow-api.deliveroo.com. 300 IN A 104.17.231.70
+
+
+;; Server: 124.107.135.126:53
+;; Size: 38
+;; Unix time: 1612714282
+;; ->>HEADER<<- opcode: QUERY, status: SERVFAIL, id: 43868
+;; flags: qr rd ra ; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+api.it.deliveroo.com. IN A
+
+
+;; Server: 193.33.220.3:53
+;; Size: 42
+;; Unix time: 1612714282
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 33858
+;; flags: qr rd ; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+*.atlantis.deliveroo.com. IN A
+
+
+;; Server: 195.186.4.111:53
+;; Size: 109
+;; Unix time: 1612714282
+;; ->>HEADER<<- opcode: QUERY, status: NXDOMAIN, id: 20769
+;; flags: qr rd ra ; QUERY: 1, ANSWER: 0, AUTHORITY: 1, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+*.atlantis.staging.deliveroo.com. IN A
+
+;; AUTHORITY SECTION:
+deliveroo.com. 3600 IN SOA mona.ns.cloudflare.com. dns.cloudflare.com. 2036403451 10000 2400 604800 3600
+
+
+;; Server: 212.230.255.129:53
+;; Size: 45
+;; Unix time: 1612714282
+;; ->>HEADER<<- opcode: QUERY, status: SERVFAIL, id: 33117
+;; flags: qr rd ra ; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+deliveroo.com.au.us2.cas.ms. IN A
+
+
+;; Server: 206.51.143.55:53
+;; Size: 98
+;; Unix time: 1612714282
+;; ->>HEADER<<- opcode: QUERY, status: NXDOMAIN, id: 37046
+;; flags: qr rd ra ; QUERY: 1, ANSWER: 0, AUTHORITY: 1, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+*.deliveroo.com.hk. IN A
+
+;; AUTHORITY SECTION:
+deliveroo.com.hk. 3600 IN SOA mona.ns.cloudflare.com. dns.cloudflare.com. 2036220114 10000 2400 604800 3600
+
+
+;; Server: 168.126.63.1:53
+;; Size: 386
+;; Unix time: 1612714282
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 55536
+;; flags: qr rd ra ; QUERY: 1, ANSWER: 2, AUTHORITY: 2, ADDITIONAL: 12
+
+;; QUESTION SECTION:
+api.sg.deliveroo.com. IN A
+
+;; ANSWER SECTION:
+api.sg.deliveroo.com. 300 IN A 104.17.231.70
+api.sg.deliveroo.com. 300 IN A 104.17.230.70
+
+;; AUTHORITY SECTION:
+deliveroo.com. 117596 IN NS mona.ns.cloudflare.com.
+deliveroo.com. 117596 IN NS phil.ns.cloudflare.com.
+
+;; ADDITIONAL SECTION:
+mona.ns.cloudflare.com. 3648 IN A 172.64.32.206
+mona.ns.cloudflare.com. 3648 IN A 173.245.58.206
+mona.ns.cloudflare.com. 3648 IN A 108.162.192.206
+phil.ns.cloudflare.com. 766 IN A 108.162.193.137
+phil.ns.cloudflare.com. 766 IN A 172.64.33.137
+phil.ns.cloudflare.com. 766 IN A 173.245.59.137
+mona.ns.cloudflare.com. 33804 IN AAAA 2803:f800:50::6ca2:c0ce
+mona.ns.cloudflare.com. 33804 IN AAAA 2a06:98c1:50::ac40:20ce
+mona.ns.cloudflare.com. 33804 IN AAAA 2606:4700:50::adf5:3ace
+phil.ns.cloudflare.com. 122971 IN AAAA 2606:4700:58::adf5:3b89
+phil.ns.cloudflare.com. 122971 IN AAAA 2803:f800:50::6ca2:c189
+phil.ns.cloudflare.com. 122971 IN AAAA 2a06:98c1:50::ac40:2189
+
+
+;; Server: 147.29.10.55:53
+;; Size: 494
+;; Unix time: 1612714282
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 3963
+;; flags: qr rd ; QUERY: 1, ANSWER: 0, AUTHORITY: 13, ADDITIONAL: 14
+
+;; QUESTION SECTION:
+\x1b[92mapi.it.deliveroo.com\x1b[0m. IN A
+
+;; AUTHORITY SECTION:
+. 246251 IN NS k.root-servers.net.
+. 246251 IN NS b.root-servers.net.
+. 246251 IN NS g.root-servers.net.
+. 246251 IN NS i.root-servers.net.
+. 246251 IN NS a.root-servers.net.
+. 246251 IN NS e.root-servers.net.
+. 246251 IN NS m.root-servers.net.
+. 246251 IN NS d.root-servers.net.
+. 246251 IN NS h.root-servers.net.
+. 246251 IN NS f.root-servers.net.
+. 246251 IN NS j.root-servers.net.
+. 246251 IN NS l.root-servers.net.
+. 246251 IN NS c.root-servers.net.
+
+;; ADDITIONAL SECTION:
+a.root-servers.net. 246251 IN A 198.41.0.4
+b.root-servers.net. 246251 IN A 199.9.14.201
+c.root-servers.net. 246251 IN A 192.33.4.12
+d.root-servers.net. 246251 IN A 199.7.91.13
+e.root-servers.net. 246251 IN A 192.203.230.10
+f.root-servers.net. 246251 IN A 192.5.5.241
+g.root-servers.net. 246251 IN A 192.112.36.4
+h.root-servers.net. 246251 IN A 198.97.190.53
+i.root-servers.net. 246251 IN A 192.36.148.17
+j.root-servers.net. 246251 IN A 192.58.128.30
+k.root-servers.net. 246251 IN A 193.0.14.129
+l.root-servers.net. 246251 IN A 199.7.83.42
+m.root-servers.net. 246251 IN A 202.12.27.33
+a.root-servers.net. 246251 IN AAAA 2001:503:ba3e::2:30
+
+
+;; Server: 193.22.119.195:53
+;; Size: 396
+;; Unix time: 1612714282
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 35228
+;; flags: qr rd ra ; QUERY: 1, ANSWER: 2, AUTHORITY: 2, ADDITIONAL: 12
+
+;; QUESTION SECTION:
+identity-staging.deliveroo.com. IN A
+
+;; ANSWER SECTION:
+identity-staging.deliveroo.com. 300 IN A 104.17.231.70
+identity-staging.deliveroo.com. 300 IN A 104.17.230.70
+
+;; AUTHORITY SECTION:
+deliveroo.com. 142553 IN NS mona.ns.cloudflare.com.
+deliveroo.com. 142553 IN NS phil.ns.cloudflare.com.
+
+;; ADDITIONAL SECTION:
+phil.ns.cloudflare.com. 97742 IN A 173.245.59.137
+phil.ns.cloudflare.com. 97742 IN A 108.162.193.137
+phil.ns.cloudflare.com. 97742 IN A 172.64.33.137
+phil.ns.cloudflare.com. 7768 IN AAAA 2803:f800:50::6ca2:c189
+phil.ns.cloudflare.com. 7768 IN AAAA 2a06:98c1:50::ac40:2189
+phil.ns.cloudflare.com. 7768 IN AAAA 2606:4700:58::adf5:3b89
+mona.ns.cloudflare.com. 735 IN A 173.245.58.206
+mona.ns.cloudflare.com. 735 IN A 108.162.192.206
+mona.ns.cloudflare.com. 735 IN A 172.64.32.206
+mona.ns.cloudflare.com. 735 IN AAAA 2a06:98c1:50::ac40:20ce
+mona.ns.cloudflare.com. 735 IN AAAA 2606:4700:50::adf5:3ace
+mona.ns.cloudflare.com. 735 IN AAAA 2803:f800:50::6ca2:c0ce
+
+
+;; Server: 202.30.143.11:53
+;; Size: 403
+;; Unix time: 1612714282
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 310
+;; flags: qr rd ra ; QUERY: 1, ANSWER: 2, AUTHORITY: 2, ADDITIONAL: 12
+
+;; QUESTION SECTION:
+pizzaexpress.order.deliveroo.co.uk. IN A
+
+;; ANSWER SECTION:
+pizzaexpress.order.deliveroo.co.uk. 300 IN A 104.18.19.124
+pizzaexpress.order.deliveroo.co.uk. 300 IN A 104.18.18.124
+
+;; AUTHORITY SECTION:
+deliveroo.co.uk. 31180 IN NS phil.ns.cloudflare.com.
+deliveroo.co.uk. 31180 IN NS mona.ns.cloudflare.com.
+
+;; ADDITIONAL SECTION:
+mona.ns.cloudflare.com. 161696 IN A 108.162.192.206
+mona.ns.cloudflare.com. 161696 IN A 172.64.32.206
+mona.ns.cloudflare.com. 161696 IN A 173.245.58.206
+phil.ns.cloudflare.com. 70943 IN A 172.64.33.137
+phil.ns.cloudflare.com. 70943 IN A 173.245.59.137
+phil.ns.cloudflare.com. 70943 IN A 108.162.193.137
+mona.ns.cloudflare.com. 54323 IN AAAA 2803:f800:50::6ca2:c0ce
+mona.ns.cloudflare.com. 54323 IN AAAA 2a06:98c1:50::ac40:20ce
+mona.ns.cloudflare.com. 54323 IN AAAA 2606:4700:50::adf5:3ace
+phil.ns.cloudflare.com. 70943 IN AAAA 2a06:98c1:50::ac40:2189
+phil.ns.cloudflare.com. 70943 IN AAAA 2606:4700:58::adf5:3b89
+phil.ns.cloudflare.com. 70943 IN AAAA 2803:f800:50::6ca2:c189
+
+
+;; Server: 62.94.0.42:53
+;; Size: 93
+;; Unix time: 1612714282
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 26761
+;; flags: qr rd ra ; QUERY: 1, ANSWER: 0, AUTHORITY: 1, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+ie.deliveroo.com. IN A
+
+;; AUTHORITY SECTION:
+deliveroo.com. 3599 IN SOA mona.ns.cloudflare.com. dns.cloudflare.com. 2036403451 10000 2400 604800 3600
+
+
+;; Server: 62.76.76.62:53
+;; Size: 103
+;; Unix time: 1612714282
+;; ->>HEADER<<- opcode: QUERY, status: NXDOMAIN, id: 7252
+;; flags: qr rd ra ; QUERY: 1, ANSWER: 0, AUTHORITY: 1, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+*.il.sandbox.deliveroo.com. IN A
+
+;; AUTHORITY SECTION:
+deliveroo.com. 3599 IN SOA mona.ns.cloudflare.com. dns.cloudflare.com. 2036403451 10000 2400 604800 3600
+
+
+;; Server: 194.50.10.2:53
+;; Size: 298
+;; Unix time: 1612714282
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 59755
+;; flags: qr rd ; QUERY: 1, ANSWER: 0, AUTHORITY: 13, ADDITIONAL: 2
+
+;; QUESTION SECTION:
+deliveroo.co.uk.eu.cas.ms. IN A
+
+;; AUTHORITY SECTION:
+. 33597 IN NS i.root-servers.net.
+. 33597 IN NS m.root-servers.net.
+. 33597 IN NS b.root-servers.net.
+. 33597 IN NS e.root-servers.net.
+. 33597 IN NS j.root-servers.net.
+. 33597 IN NS k.root-servers.net.
+. 33597 IN NS f.root-servers.net.
+. 33597 IN NS g.root-servers.net.
+. 33597 IN NS a.root-servers.net.
+. 33597 IN NS d.root-servers.net.
+. 33597 IN NS l.root-servers.net.
+. 33597 IN NS h.root-servers.net.
+. 33597 IN NS c.root-servers.net.
+
+;; ADDITIONAL SECTION:
+a.root-servers.net. 459438 IN A 198.41.0.4
+a.root-servers.net. 76786 IN AAAA 2001:503:ba3e::2:30
+
+
+;; Server: 80.254.79.157:53
+;; Size: 103
+;; Unix time: 1612714282
+;; ->>HEADER<<- opcode: QUERY, status: NXDOMAIN, id: 62526
+;; flags: qr rd ra ; QUERY: 1, ANSWER: 0, AUTHORITY: 1, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+*.nl.staging.deliveroo.com. IN A
+
+;; AUTHORITY SECTION:
+deliveroo.com. 2581 IN SOA mona.ns.cloudflare.com. dns.cloudflare.com. 2036403451 10000 2400 604800 3600
+
+
+;; Server: 195.14.50.21:53
+;; Size: 118
+;; Unix time: 1612714282
+;; ->>HEADER<<- opcode: QUERY, status: NXDOMAIN, id: 31038
+;; flags: qr rd ra ; QUERY: 1, ANSWER: 0, AUTHORITY: 1, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+\x1b[92mgo.deliveroo.com\x1b[0m. IN A
+
+;; AUTHORITY SECTION:
+. 1480 IN SOA a.root-servers.net. nstld.verisign-grs.com. 2021020700 1800 900 604800 86400
+
+
+;; Server: 62.196.2.70:53
+;; Size: 134
+;; Unix time: 1612714282
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 26371
+;; flags: qr rd ra ; QUERY: 1, ANSWER: 2, AUTHORITY: 2, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+developers-staging.deliveroo.com. IN A
+
+;; ANSWER SECTION:
+developers-staging.deliveroo.com. 300 IN A 104.17.231.70
+developers-staging.deliveroo.com. 300 IN A 104.17.230.70
+
+;; AUTHORITY SECTION:
+deliveroo.com. 168474 IN NS mona.ns.cloudflare.com.
+deliveroo.com. 168474 IN NS phil.ns.cloudflare.com.
+
+
+;; Server: 24.154.1.5:53
+;; Size: 76
+;; Unix time: 1612714282
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 62281
+;; flags: qr ; QUERY: 1, ANSWER: 0, AUTHORITY: 1, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+help.deliveroo.com. IN A
+
+;; AUTHORITY SECTION:
+help.deliveroo.com. 0 IN NS WMnUaKoamMbY.deliveroo.com.
+
+
+;; Server: 85.132.32.42:53
+;; Size: 125
+;; Unix time: 1612714282
+;; ->>HEADER<<- opcode: QUERY, status: NXDOMAIN, id: 8941
+;; flags: qr rd ra ; QUERY: 1, ANSWER: 0, AUTHORITY: 1, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+\x1b[92mself-help.deliveroo.com\x1b[0m. IN A
+
+;; AUTHORITY SECTION:
+. 10800 IN SOA a.root-servers.net. nstld.verisign-grs.com. 2021020700 1800 900 604800 86400
+
+
+;; Server: 216.52.94.33:53
+;; Size: 386
+;; Unix time: 1612714282
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 10221
+;; flags: qr rd ra ; QUERY: 1, ANSWER: 2, AUTHORITY: 2, ADDITIONAL: 12
+
+;; QUESTION SECTION:
+riders.deliveroo.com. IN A
+
+;; ANSWER SECTION:
+riders.deliveroo.com. 300 IN A 104.17.231.70
+riders.deliveroo.com. 300 IN A 104.17.230.70
+
+;; AUTHORITY SECTION:
+deliveroo.com. 168474 IN NS phil.ns.cloudflare.com.
+deliveroo.com. 168474 IN NS mona.ns.cloudflare.com.
+
+;; ADDITIONAL SECTION:
+mona.ns.cloudflare.com. 56463 IN A 108.162.192.206
+mona.ns.cloudflare.com. 56463 IN A 172.64.32.206
+mona.ns.cloudflare.com. 56463 IN A 173.245.58.206
+phil.ns.cloudflare.com. 96309 IN A 173.245.59.137
+phil.ns.cloudflare.com. 96309 IN A 108.162.193.137
+phil.ns.cloudflare.com. 96309 IN A 172.64.33.137
+mona.ns.cloudflare.com. 56463 IN AAAA 2803:f800:50::6ca2:c0ce
+mona.ns.cloudflare.com. 56463 IN AAAA 2a06:98c1:50::ac40:20ce
+mona.ns.cloudflare.com. 56463 IN AAAA 2606:4700:50::adf5:3ace
+phil.ns.cloudflare.com. 96309 IN AAAA 2606:4700:58::adf5:3b89
+phil.ns.cloudflare.com. 96309 IN AAAA 2803:f800:50::6ca2:c189
+phil.ns.cloudflare.com. 96309 IN AAAA 2a06:98c1:50::ac40:2189
+
+
+;; Server: 168.213.3.11:53
+;; Size: 498
+;; Unix time: 1612714282
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 48627
+;; flags: qr rd ; QUERY: 1, ANSWER: 0, AUTHORITY: 13, ADDITIONAL: 2
+
+;; QUESTION SECTION:
+\x1b[92mdevelopers.deliveroo.com\x1b[0m. IN A
+
+;; AUTHORITY SECTION:
+. 3600 IN NS g.root-servers.net.
+. 3600 IN NS h.root-servers.net.
+. 3600 IN NS c.root-servers.net.
+. 3600 IN NS b.root-servers.net.
+. 3600 IN NS a.root-servers.net.
+. 3600 IN NS l.root-servers.net.
+. 3600 IN NS m.root-servers.net.
+. 3600 IN NS j.root-servers.net.
+. 3600 IN NS e.root-servers.net.
+. 3600 IN NS i.root-servers.net.
+. 3600 IN NS d.root-servers.net.
+. 3600 IN NS f.root-servers.net.
+. 3600 IN NS k.root-servers.net.
+
+;; ADDITIONAL SECTION:
+g.root-servers.net. 3600 IN A 192.112.36.4
+h.root-servers.net. 3600 IN A 128.63.2.53
+
+
+;; Server: 129.250.35.251:53
+;; Size: 75
+;; Unix time: 1612714282
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 57465
+;; flags: qr rd ra ; QUERY: 1, ANSWER: 2, AUTHORITY: 0, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+www.deliveroo.engineering. IN A
+
+;; ANSWER SECTION:
+www.deliveroo.engineering. 300 IN A 172.67.137.223
+www.deliveroo.engineering. 300 IN A 104.21.78.225
+
+
+;; Server: 192.76.144.66:53
+;; Size: 65
+;; Unix time: 1612714282
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 58639
+;; flags: qr rd ra ; QUERY: 1, ANSWER: 2, AUTHORITY: 0, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+deliveroo.co.uk. IN A
+
+;; ANSWER SECTION:
+deliveroo.co.uk. 300 IN A 104.18.19.124
+deliveroo.co.uk. 300 IN A 104.18.18.124
+
+
+;; Server: 165.87.201.244:53
+;; Size: 103
+;; Unix time: 1612714282
+;; ->>HEADER<<- opcode: QUERY, status: NXDOMAIN, id: 62567
+;; flags: qr rd ra ; QUERY: 1, ANSWER: 0, AUTHORITY: 1, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+*.sg.staging.deliveroo.com. IN A
+
+;; AUTHORITY SECTION:
+deliveroo.com. 3600 IN SOA mona.ns.cloudflare.com. dns.cloudflare.com. 2036403451 10000 2400 604800 3600
+
+
+;; Server: 170.56.58.53:53
+;; Size: 369
+;; Unix time: 1612714282
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 36275
+;; flags: qr rd ra ; QUERY: 1, ANSWER: 1, AUTHORITY: 2, ADDITIONAL: 12
+
+;; QUESTION SECTION:
+deliveroo.design. IN A
+
+;; ANSWER SECTION:
+deliveroo.design. 300 IN A 104.198.14.52
+
+;; AUTHORITY SECTION:
+deliveroo.design. 3600 IN NS mona.ns.cloudflare.com.
+deliveroo.design. 3600 IN NS phil.ns.cloudflare.com.
+
+;; ADDITIONAL SECTION:
+phil.ns.cloudflare.com. 155028 IN A 173.245.59.137
+phil.ns.cloudflare.com. 155028 IN A 108.162.193.137
+phil.ns.cloudflare.com. 155028 IN A 172.64.33.137
+mona.ns.cloudflare.com. 166532 IN A 172.64.32.206
+mona.ns.cloudflare.com. 166532 IN A 173.245.58.206
+mona.ns.cloudflare.com. 166532 IN A 108.162.192.206
+phil.ns.cloudflare.com. 155028 IN AAAA 2606:4700:58::adf5:3b89
+phil.ns.cloudflare.com. 155028 IN AAAA 2803:f800:50::6ca2:c189
+phil.ns.cloudflare.com. 155028 IN AAAA 2a06:98c1:50::ac40:2189
+mona.ns.cloudflare.com. 166532 IN AAAA 2a06:98c1:50::ac40:20ce
+mona.ns.cloudflare.com. 166532 IN AAAA 2606:4700:50::adf5:3ace
+mona.ns.cloudflare.com. 166532 IN AAAA 2803:f800:50::6ca2:c0ce
+
+
+;; Server: 77.88.8.2:53
+;; Size: 101
+;; Unix time: 1612714282
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 58921
+;; flags: qr rd ra ; QUERY: 1, ANSWER: 0, AUTHORITY: 1, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+tw.staging.deliveroo.com. IN A
+
+;; AUTHORITY SECTION:
+deliveroo.com. 60 IN SOA mona.ns.cloudflare.com. dns.cloudflare.com. 2036403451 10000 2400 604800 3600
+
+
+;; Server: 216.52.41.1:53
+;; Size: 100
+;; Unix time: 1612714282
+;; ->>HEADER<<- opcode: QUERY, status: NXDOMAIN, id: 40315
+;; flags: qr rd ra ; QUERY: 1, ANSWER: 0, AUTHORITY: 1, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+*.sandbox.deliveroo.com. IN A
+
+;; AUTHORITY SECTION:
+deliveroo.com. 3600 IN SOA mona.ns.cloudflare.com. dns.cloudflare.com. 2036403451 10000 2400 604800 3600
+
+
+;; Server: 216.52.41.33:53
+;; Size: 381
+;; Unix time: 1612714282
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 49684
+;; flags: qr rd ra ; QUERY: 1, ANSWER: 2, AUTHORITY: 2, ADDITIONAL: 12
+
+;; QUESTION SECTION:
+deliveroo.tw. IN A
+
+;; ANSWER SECTION:
+deliveroo.tw. 300 IN A 104.18.23.120
+deliveroo.tw. 300 IN A 104.18.22.120
+
+;; AUTHORITY SECTION:
+deliveroo.tw. 3600 IN NS mona.ns.cloudflare.com.
+deliveroo.tw. 3600 IN NS phil.ns.cloudflare.com.
+
+;; ADDITIONAL SECTION:
+mona.ns.cloudflare.com. 15293 IN A 108.162.192.206
+mona.ns.cloudflare.com. 15293 IN A 172.64.32.206
+mona.ns.cloudflare.com. 15293 IN A 173.245.58.206
+phil.ns.cloudflare.com. 74736 IN A 173.245.59.137
+phil.ns.cloudflare.com. 74736 IN A 108.162.193.137
+phil.ns.cloudflare.com. 74736 IN A 172.64.33.137
+mona.ns.cloudflare.com. 15293 IN AAAA 2803:f800:50::6ca2:c0ce
+mona.ns.cloudflare.com. 15293 IN AAAA 2a06:98c1:50::ac40:20ce
+mona.ns.cloudflare.com. 15293 IN AAAA 2606:4700:50::adf5:3ace
+phil.ns.cloudflare.com. 74736 IN AAAA 2606:4700:58::adf5:3b89
+phil.ns.cloudflare.com. 74736 IN AAAA 2803:f800:50::6ca2:c189
+phil.ns.cloudflare.com. 74736 IN AAAA 2a06:98c1:50::ac40:2189
+
+
+;; Server: 202.136.162.11:53
+;; Size: 122
+;; Unix time: 1612714282
+;; ->>HEADER<<- opcode: QUERY, status: NXDOMAIN, id: 41519
+;; flags: qr rd ra ; QUERY: 1, ANSWER: 0, AUTHORITY: 1, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+\x1b[92mapi.au.deliveroo.com\x1b[0m. IN A
+
+;; AUTHORITY SECTION:
+. 10800 IN SOA a.root-servers.net. nstld.verisign-grs.com. 2021020700 1800 900 604800 86400
+
+
+;; Server: 202.86.8.100:53
+;; Size: 95
+;; Unix time: 1612714282
+;; ->>HEADER<<- opcode: QUERY, status: NXDOMAIN, id: 14551
+;; flags: qr rd ra ; QUERY: 1, ANSWER: 0, AUTHORITY: 1, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+demo.deliveroo.com. IN A
+
+;; AUTHORITY SECTION:
+deliveroo.com. 3600 IN SOA mona.ns.cloudflare.com. dns.cloudflare.com. 2036403451 10000 2400 604800 3600
+
+
+;; Server: 37.235.1.174:53
+;; Size: 123
+;; Unix time: 1612714282
+;; ->>HEADER<<- opcode: QUERY, status: NXDOMAIN, id: 22774
+;; flags: qr rd ra ; QUERY: 1, ANSWER: 0, AUTHORITY: 1, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+consumer-ow-api.atlantis.staging.deliveroo.com. IN A
+
+;; AUTHORITY SECTION:
+deliveroo.com. 3600 IN SOA mona.ns.cloudflare.com. dns.cloudflare.com. 2036403451 10000 2400 604800 3600
+
+
+;; Server: 208.67.222.220:53
+;; Size: 56
+;; Unix time: 1612714282
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 43108
+;; flags: qr rd ra ; QUERY: 1, ANSWER: 1, AUTHORITY: 0, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+view.b2b.deliveroo.com. IN A
+
+;; ANSWER SECTION:
+view.b2b.deliveroo.com. 3600 IN A 161.71.61.128
+
+
+;; Server: 168.213.3.11:53
+;; Size: 505
+;; Unix time: 1612714282
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 17114
+;; flags: qr rd ; QUERY: 1, ANSWER: 0, AUTHORITY: 13, ADDITIONAL: 3
+
+;; QUESTION SECTION:
+nl.staging.deliveroo.com. IN A
+
+;; AUTHORITY SECTION:
+. 3600 IN NS e.root-servers.net.
+. 3600 IN NS i.root-servers.net.
+. 3600 IN NS d.root-servers.net.
+. 3600 IN NS k.root-servers.net.
+. 3600 IN NS g.root-servers.net.
+. 3600 IN NS f.root-servers.net.
+. 3600 IN NS h.root-servers.net.
+. 3600 IN NS c.root-servers.net.
+. 3600 IN NS b.root-servers.net.
+. 3600 IN NS l.root-servers.net.
+. 3600 IN NS a.root-servers.net.
+. 3600 IN NS m.root-servers.net.
+. 3600 IN NS j.root-servers.net.
+
+;; ADDITIONAL SECTION:
+e.root-servers.net. 3600 IN A 192.203.230.10
+i.root-servers.net. 3600 IN A 192.36.148.17
+d.root-servers.net. 3600 IN A 199.7.91.13
+
+
+;; Server: 62.129.252.252:53
+;; Size: 196
+;; Unix time: 1612714282
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 65345
+;; flags: qr rd ra ; QUERY: 1, ANSWER: 4, AUTHORITY: 0, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+deliveroo.co.uk.us.cas.ms. IN A
+
+;; ANSWER SECTION:
+deliveroo.co.uk.us.cas.ms. 300 IN CNAME us.cas.ms.
+us.cas.ms. 300 IN CNAME prdp-1-nginxnode-main.trafficmanager.net.
+prdp-1-nginxnode-main.trafficmanager.net. 30 IN CNAME prod-4-peuw-nginxnode-lb1.westeurope.cloudapp.azure.com.
+prod-4-peuw-nginxnode-lb1.westeurope.cloudapp.azure.com. 10 IN A 52.157.233.49
+
+
+;; Server: 147.29.10.6:53
+;; Size: 245
+;; Unix time: 1612714282
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 40731
+;; flags: qr rd ; QUERY: 1, ANSWER: 0, AUTHORITY: 13, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+fr.deliveroo.com. IN A
+
+;; AUTHORITY SECTION:
+. 3600000 IN NS J.ROOT-SERVERS.NET.
+. 3600000 IN NS G.ROOT-SERVERS.NET.
+. 3600000 IN NS L.ROOT-SERVERS.NET.
+. 3600000 IN NS D.ROOT-SERVERS.NET.
+. 3600000 IN NS E.ROOT-SERVERS.NET.
+. 3600000 IN NS A.ROOT-SERVERS.NET.
+. 3600000 IN NS C.ROOT-SERVERS.NET.
+. 3600000 IN NS K.ROOT-SERVERS.NET.
+. 3600000 IN NS M.ROOT-SERVERS.NET.
+. 3600000 IN NS H.ROOT-SERVERS.NET.
+. 3600000 IN NS F.ROOT-SERVERS.NET.
+. 3600000 IN NS I.ROOT-SERVERS.NET.
+. 3600000 IN NS B.ROOT-SERVERS.NET.
+
+
+;; Server: 77.88.8.8:53
+;; Size: 81
+;; Unix time: 1612714282
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 50177
+;; flags: qr rd ra ; QUERY: 1, ANSWER: 2, AUTHORITY: 0, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+self-help-staging.deliveroo.com. IN A
+
+;; ANSWER SECTION:
+self-help-staging.deliveroo.com. 300 IN A 104.17.231.70
+self-help-staging.deliveroo.com. 300 IN A 104.17.230.70
+
+
+;; Server: 198.82.247.34:53
+;; Size: 103
+;; Unix time: 1612714282
+;; ->>HEADER<<- opcode: QUERY, status: NXDOMAIN, id: 40759
+;; flags: qr rd ra ; QUERY: 1, ANSWER: 0, AUTHORITY: 1, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+*.fr.sandbox.deliveroo.com. IN A
+
+;; AUTHORITY SECTION:
+deliveroo.com. 3600 IN SOA mona.ns.cloudflare.com. dns.cloudflare.com. 2036403451 10000 2400 604800 3600
+
+
+;; Server: 68.179.203.94:53
+;; Size: 103
+;; Unix time: 1612714282
+;; ->>HEADER<<- opcode: QUERY, status: NXDOMAIN, id: 955
+;; flags: qr rd ra ; QUERY: 1, ANSWER: 0, AUTHORITY: 1, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+*.kw.sandbox.deliveroo.com. IN A
+
+;; AUTHORITY SECTION:
+deliveroo.com. 600 IN SOA mona.ns.cloudflare.com. dns.cloudflare.com. 2036403451 10000 2400 604800 3600
+
+
+;; Server: 211.115.194.2:53
+;; Size: 383
+;; Unix time: 1612714282
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 8731
+;; flags: qr rd ra ; QUERY: 1, ANSWER: 2, AUTHORITY: 2, ADDITIONAL: 12
+
+;; QUESTION SECTION:
+kyc.deliveroo.com. IN A
+
+;; ANSWER SECTION:
+kyc.deliveroo.com. 300 IN A 104.17.231.70
+kyc.deliveroo.com. 300 IN A 104.17.230.70
+
+;; AUTHORITY SECTION:
+deliveroo.com. 52511 IN NS mona.ns.cloudflare.com.
+deliveroo.com. 52511 IN NS phil.ns.cloudflare.com.
+
+;; ADDITIONAL SECTION:
+mona.ns.cloudflare.com. 155609 IN A 108.162.192.206
+mona.ns.cloudflare.com. 155609 IN A 172.64.32.206
+mona.ns.cloudflare.com. 155609 IN A 173.245.58.206
+phil.ns.cloudflare.com. 5838 IN A 173.245.59.137
+phil.ns.cloudflare.com. 5838 IN A 108.162.193.137
+phil.ns.cloudflare.com. 5838 IN A 172.64.33.137
+mona.ns.cloudflare.com. 172124 IN AAAA 2803:f800:50::6ca2:c0ce
+mona.ns.cloudflare.com. 172124 IN AAAA 2a06:98c1:50::ac40:20ce
+mona.ns.cloudflare.com. 172124 IN AAAA 2606:4700:50::adf5:3ace
+phil.ns.cloudflare.com. 61200 IN AAAA 2606:4700:58::adf5:3b89
+phil.ns.cloudflare.com. 61200 IN AAAA 2803:f800:50::6ca2:c189
+phil.ns.cloudflare.com. 61200 IN AAAA 2a06:98c1:50::ac40:2189
+
+
+;; Server: 168.95.1.1:53
+;; Size: 75
+;; Unix time: 1612714282
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 49021
+;; flags: qr rd ra ; QUERY: 1, ANSWER: 2, AUTHORITY: 0, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+kyc-staging.deliveroo.com. IN A
+
+;; ANSWER SECTION:
+kyc-staging.deliveroo.com. 300 IN A 104.17.230.70
+kyc-staging.deliveroo.com. 300 IN A 104.17.231.70
+
+
+;; Server: 209.191.129.65:53
+;; Size: 101
+;; Unix time: 1612714282
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 47948
+;; flags: qr rd ra ; QUERY: 1, ANSWER: 0, AUTHORITY: 1, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+uk.staging.deliveroo.com. IN A
+
+;; AUTHORITY SECTION:
+deliveroo.com. 3600 IN SOA mona.ns.cloudflare.com. dns.cloudflare.com. 2036403451 10000 2400 604800 3600
+
+
+;; Server: 200.95.144.3:53
+;; Size: 48
+;; Unix time: 1612714282
+;; ->>HEADER<<- opcode: QUERY, status: SERVFAIL, id: 58573
+;; flags: qr rd ra ; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+\x1b[92mmta.b2b.deliveroo.com\x1b[0m. IN A
+
+
+;; Server: 164.124.107.9:53
+;; Size: 101
+;; Unix time: 1612714282
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 58103
+;; flags: qr rd ra ; QUERY: 1, ANSWER: 0, AUTHORITY: 1, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+il.staging.deliveroo.com. IN A
+
+;; AUTHORITY SECTION:
+deliveroo.com. 3600 IN SOA mona.ns.cloudflare.com. dns.cloudflare.com. 2036403451 10000 2400 604800 3600
+
+
+;; Server: 212.89.130.180:53
+;; Size: 101
+;; Unix time: 1612714282
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 19708
+;; flags: qr rd ra ; QUERY: 1, ANSWER: 0, AUTHORITY: 1, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+fr.staging.deliveroo.com. IN A
+
+;; AUTHORITY SECTION:
+deliveroo.com. 3600 IN SOA mona.ns.cloudflare.com. dns.cloudflare.com. 2036403451 10000 2400 604800 3600
+
+
+;; Server: 210.80.58.66:53
+;; Size: 103
+;; Unix time: 1612714282
+;; ->>HEADER<<- opcode: QUERY, status: NXDOMAIN, id: 35529
+;; flags: qr aa rd ra ; QUERY: 1, ANSWER: 0, AUTHORITY: 1, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+*.ie.sandbox.deliveroo.com. IN A
+
+;; AUTHORITY SECTION:
+deliveroo.com. 3600 IN SOA mona.ns.cloudflare.com. dns.cloudflare.com. 2036403451 10000 2400 604800 3600
+
+
+;; Server: 203.146.237.237:53
+;; Size: 123
+;; Unix time: 1612714282
+;; ->>HEADER<<- opcode: QUERY, status: NXDOMAIN, id: 683
+;; flags: qr rd ra ; QUERY: 1, ANSWER: 0, AUTHORITY: 1, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+\x1b[92msupport.deliveroo.com\x1b[0m. IN A
+
+;; AUTHORITY SECTION:
+. 10800 IN SOA a.root-servers.net. nstld.verisign-grs.com. 2021020700 1800 900 604800 86400
+
+
+;; Server: 203.2.193.67:53
+;; Size: 93
+;; Unix time: 1612714282
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 63592
+;; flags: qr rd ra ; QUERY: 1, ANSWER: 0, AUTHORITY: 1, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+uk.deliveroo.com. IN A
+
+;; AUTHORITY SECTION:
+deliveroo.com. 3600 IN SOA mona.ns.cloudflare.com. dns.cloudflare.com. 2036403451 10000 2400 604800 3600
+
+
+;; Server: 195.27.1.1:53
+;; Size: 109
+;; Unix time: 1612714282
+;; ->>HEADER<<- opcode: QUERY, status: NXDOMAIN, id: 52983
+;; flags: qr rd ra ; QUERY: 1, ANSWER: 0, AUTHORITY: 1, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+*.atlantis.sandbox.deliveroo.com. IN A
+
+;; AUTHORITY SECTION:
+deliveroo.com. 2361 IN SOA mona.ns.cloudflare.com. dns.cloudflare.com. 2036403451 10000 2400 604800 3600
+
+
+;; Server: 208.67.222.220:53
+;; Size: 70
+;; Unix time: 1612714282
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 237
+;; flags: qr rd ra ; QUERY: 1, ANSWER: 2, AUTHORITY: 0, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+api.hk.deliveroo.com. IN A
+
+;; ANSWER SECTION:
+api.hk.deliveroo.com. 300 IN A 104.17.230.70
+api.hk.deliveroo.com. 300 IN A 104.17.231.70
+
+
+;; Server: 194.117.245.2:53
+;; Size: 53
+;; Unix time: 1612714282
+;; ->>HEADER<<- opcode: QUERY, status: SERVFAIL, id: 2133
+;; flags: qr rd ; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 1
+
+;; QUESTION SECTION:
+developers.deliveroo.com. IN A
+
+;; ADDITIONAL SECTION:
+. 0 512 41 
+
+
+;; Server: 208.67.222.222:53
+;; Size: 99
+;; Unix time: 1612714282
+;; ->>HEADER<<- opcode: QUERY, status: NXDOMAIN, id: 59978
+;; flags: qr rd ra ; QUERY: 1, ANSWER: 0, AUTHORITY: 1, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+*.global.deliveroo.com. IN A
+
+;; AUTHORITY SECTION:
+deliveroo.com. 3600 IN SOA mona.ns.cloudflare.com. dns.cloudflare.com. 2036403451 10000 2400 604800 3600
+
+
+;; Server: 212.94.32.32:53
+;; Size: 120
+;; Unix time: 1612714282
+;; ->>HEADER<<- opcode: QUERY, status: NXDOMAIN, id: 46847
+;; flags: qr rd ra ; QUERY: 1, ANSWER: 0, AUTHORITY: 1, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+\x1b[92mldap.deliveroo.com\x1b[0m. IN A
+
+;; AUTHORITY SECTION:
+. 10800 IN SOA a.root-servers.net. nstld.verisign-grs.com. 2021020700 1800 900 604800 86400
+
+
+;; Server: 195.182.110.132:53
+;; Size: 125
+;; Unix time: 1612714282
+;; ->>HEADER<<- opcode: QUERY, status: NXDOMAIN, id: 6935
+;; flags: qr rd ra ; QUERY: 1, ANSWER: 0, AUTHORITY: 1, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+www.ad.corp.deliveroo.com. IN A
+
+;; AUTHORITY SECTION:
+corp.deliveroo.com. 900 IN SOA ns-1170.awsdns-18.org. awsdns-hostmaster.amazon.com. 1 7200 900 1209600 86400
+
+
+;; Server: 82.141.136.2:53
+;; Size: 93
+;; Unix time: 1612714282
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 3252
+;; flags: qr rd ra ; QUERY: 1, ANSWER: 0, AUTHORITY: 1, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+sg.deliveroo.com. IN A
+
+;; AUTHORITY SECTION:
+deliveroo.com. 1799 IN SOA mona.ns.cloudflare.com. dns.cloudflare.com. 2036403451 10000 2400 604800 3600
+
+
+;; Server: 79.141.83.250:53
+;; Size: 94
+;; Unix time: 1612714282
+;; ->>HEADER<<- opcode: QUERY, status: NXDOMAIN, id: 27980
+;; flags: qr rd ra ; QUERY: 1, ANSWER: 0, AUTHORITY: 1, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+dev.deliveroo.com. IN A
+
+;; AUTHORITY SECTION:
+deliveroo.com. 3600 IN SOA mona.ns.cloudflare.com. dns.cloudflare.com. 2036403451 10000 2400 604800 3600
+
+
+;; Server: 212.85.112.32:53
+;; Size: 101
+;; Unix time: 1612714282
+;; ->>HEADER<<- opcode: QUERY, status: NXDOMAIN, id: 57107
+;; flags: qr rd ra ; QUERY: 1, ANSWER: 0, AUTHORITY: 1, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+ie.sandbox.deliveroo.com. IN A
+
+;; AUTHORITY SECTION:
+deliveroo.com. 600 IN SOA mona.ns.cloudflare.com. dns.cloudflare.com. 2036403451 10000 2400 604800 3600
+
+
+;; Server: 69.146.17.3:53
+;; Size: 41
+;; Unix time: 1612714282
+;; ->>HEADER<<- opcode: QUERY, status: NXDOMAIN, id: 45202
+;; flags: qr rd ra ; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+*.staging.deliveroo.com. IN A
+
+
+;; Server: 219.250.36.130:53
+;; Size: 115
+;; Unix time: 1612714282
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 11628
+;; flags: qr rd ra ; QUERY: 1, ANSWER: 0, AUTHORITY: 1, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+staging.deliveroo.com. IN A
+
+;; AUTHORITY SECTION:
+deliveroo.com. 3600 IN SOA mona.ns.cloudflare.com. dns.cloudflare.com. 2036403451 10000 2400 604800 3600
+
+
+;; Server: 216.254.141.13:53
+;; Size: 125
+;; Unix time: 1612714282
+;; ->>HEADER<<- opcode: QUERY, status: NXDOMAIN, id: 23023
+;; flags: qr rd ra ; QUERY: 1, ANSWER: 0, AUTHORITY: 1, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+\x1b[92mrider-api.deliveroo.com\x1b[0m. IN A
+
+;; AUTHORITY SECTION:
+. 10800 IN SOA a.root-servers.net. nstld.verisign-grs.com. 2021020700 1800 900 604800 86400
+
+
+;; Server: 213.178.66.2:53
+;; Size: 503
+;; Unix time: 1612714282
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 22039
+;; flags: qr rd ; QUERY: 1, ANSWER: 0, AUTHORITY: 13, ADDITIONAL: 14
+
+;; QUESTION SECTION:
+\x1b[92mconsumer-ow-api.deliveroo.com\x1b[0m. IN A
+
+;; AUTHORITY SECTION:
+. 494919 IN NS a.root-servers.net.
+. 494919 IN NS b.root-servers.net.
+. 494919 IN NS c.root-servers.net.
+. 494919 IN NS d.root-servers.net.
+. 494919 IN NS e.root-servers.net.
+. 494919 IN NS f.root-servers.net.
+. 494919 IN NS g.root-servers.net.
+. 494919 IN NS h.root-servers.net.
+. 494919 IN NS i.root-servers.net.
+. 494919 IN NS j.root-servers.net.
+. 494919 IN NS k.root-servers.net.
+. 494919 IN NS l.root-servers.net.
+. 494919 IN NS m.root-servers.net.
+
+;; ADDITIONAL SECTION:
+a.root-servers.net. 581315 IN A 198.41.0.4
+b.root-servers.net. 581315 IN A 199.9.14.201
+c.root-servers.net. 581315 IN A 192.33.4.12
+d.root-servers.net. 581315 IN A 199.7.91.13
+e.root-servers.net. 581315 IN A 192.203.230.10
+f.root-servers.net. 581315 IN A 192.5.5.241
+g.root-servers.net. 581315 IN A 192.112.36.4
+h.root-servers.net. 581315 IN A 198.97.190.53
+i.root-servers.net. 581315 IN A 192.36.148.17
+j.root-servers.net. 581315 IN A 192.58.128.30
+k.root-servers.net. 581315 IN A 193.0.14.129
+l.root-servers.net. 581315 IN A 199.7.83.42
+m.root-servers.net. 581315 IN A 202.12.27.33
+a.root-servers.net. 494919 IN AAAA 2001:503:ba3e::2:30
+
+
+;; Server: 69.28.104.5:53
+;; Size: 389
+;; Unix time: 1612714282
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 51728
+;; flags: qr rd ra ; QUERY: 1, ANSWER: 2, AUTHORITY: 2, ADDITIONAL: 12
+
+;; QUESTION SECTION:
+test.deliveroo.co.uk. IN A
+
+;; ANSWER SECTION:
+test.deliveroo.co.uk. 300 IN A 104.18.19.124
+test.deliveroo.co.uk. 300 IN A 104.18.18.124
+
+;; AUTHORITY SECTION:
+deliveroo.co.uk. 126868 IN NS mona.ns.cloudflare.com.
+deliveroo.co.uk. 126868 IN NS phil.ns.cloudflare.com.
+
+;; ADDITIONAL SECTION:
+mona.ns.cloudflare.com. 48597 IN A 172.64.32.206
+mona.ns.cloudflare.com. 48597 IN A 173.245.58.206
+mona.ns.cloudflare.com. 48597 IN A 108.162.192.206
+phil.ns.cloudflare.com. 136901 IN A 173.245.59.137
+phil.ns.cloudflare.com. 136901 IN A 108.162.193.137
+phil.ns.cloudflare.com. 136901 IN A 172.64.33.137
+mona.ns.cloudflare.com. 119807 IN AAAA 2606:4700:50::adf5:3ace
+mona.ns.cloudflare.com. 119807 IN AAAA 2803:f800:50::6ca2:c0ce
+mona.ns.cloudflare.com. 119807 IN AAAA 2a06:98c1:50::ac40:20ce
+phil.ns.cloudflare.com. 136901 IN AAAA 2606:4700:58::adf5:3b89
+phil.ns.cloudflare.com. 136901 IN AAAA 2803:f800:50::6ca2:c189
+phil.ns.cloudflare.com. 136901 IN AAAA 2a06:98c1:50::ac40:2189
+
+
+;; Server: 66.163.0.173:53
+;; Size: 93
+;; Unix time: 1612714282
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 15586
+;; flags: qr rd ra ; QUERY: 1, ANSWER: 0, AUTHORITY: 1, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+il.deliveroo.com. IN A
+
+;; AUTHORITY SECTION:
+deliveroo.com. 3600 IN SOA mona.ns.cloudflare.com. dns.cloudflare.com. 2036403451 10000 2400 604800 3600
+
+
+;; Server: 212.1.118.3:53
+;; Size: 494
+;; Unix time: 1612714282
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 59544
+;; flags: qr rd ; QUERY: 1, ANSWER: 0, AUTHORITY: 13, ADDITIONAL: 11
+
+;; QUESTION SECTION:
+\x1b[92mriders.deliveroo.com\x1b[0m. IN A
+
+;; AUTHORITY SECTION:
+. 407787 IN NS k.root-servers.net.
+. 407787 IN NS l.root-servers.net.
+. 407787 IN NS m.root-servers.net.
+. 407787 IN NS a.root-servers.net.
+. 407787 IN NS b.root-servers.net.
+. 407787 IN NS c.root-servers.net.
+. 407787 IN NS d.root-servers.net.
+. 407787 IN NS e.root-servers.net.
+. 407787 IN NS f.root-servers.net.
+. 407787 IN NS g.root-servers.net.
+. 407787 IN NS h.root-servers.net.
+. 407787 IN NS i.root-servers.net.
+. 407787 IN NS j.root-servers.net.
+
+;; ADDITIONAL SECTION:
+a.root-servers.net. 321188 IN A 198.41.0.4
+a.root-servers.net. 407787 IN AAAA 2001:503:ba3e::2:30
+b.root-servers.net. 407787 IN A 199.9.14.201
+b.root-servers.net. 407787 IN AAAA 2001:500:200::b
+c.root-servers.net. 407787 IN A 192.33.4.12
+c.root-servers.net. 407787 IN AAAA 2001:500:2::c
+d.root-servers.net. 407787 IN A 199.7.91.13
+d.root-servers.net. 407787 IN AAAA 2001:500:2d::d
+e.root-servers.net. 407787 IN A 192.203.230.10
+e.root-servers.net. 407787 IN AAAA 2001:500:a8::e
+f.root-servers.net. 407787 IN A 192.5.5.241
+
+
+;; Server: 164.124.107.9:53
+;; Size: 400
+;; Unix time: 1612714282
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 6233
+;; flags: qr rd ra ; QUERY: 1, ANSWER: 4, AUTHORITY: 4, ADDITIONAL: 3
+
+;; QUESTION SECTION:
+deliveroo.co.uk.eu2.cas.ms. IN A
+
+;; ANSWER SECTION:
+deliveroo.co.uk.eu2.cas.ms. 300 IN CNAME eu2.cas.ms.
+eu2.cas.ms. 30 IN CNAME prdp-1-nginxnode-main.trafficmanager.net.
+prdp-1-nginxnode-main.trafficmanager.net. 17 IN CNAME prod-4-psea-nginxnode-lb1.southeastasia.cloudapp.azure.com.
+prod-4-psea-nginxnode-lb1.southeastasia.cloudapp.azure.com. 10 IN A 40.119.203.158
+
+;; AUTHORITY SECTION:
+southeastasia.cloudapp.azure.com. 186 IN NS ns1prod.6621.azuredns-prd.org.
+southeastasia.cloudapp.azure.com. 186 IN NS ns2prod.6621.azuredns-prd.org.
+southeastasia.cloudapp.azure.com. 186 IN NS ns2prod.6621.azuredns-prd.info.
+southeastasia.cloudapp.azure.com. 186 IN NS ns1-01.azure-dns.com.
+
+;; ADDITIONAL SECTION:
+ns1-01.azure-dns.com. 172675 IN A 40.90.4.1
+ns2prod.6621.azuredns-prd.info. 151 IN A 13.107.160.1
+ns1-01.azure-dns.com. 172675 IN AAAA 2603:1061::1
+
+
+;; Server: 213.172.33.34:53
+;; Size: 496
+;; Unix time: 1612714282
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 30093
+;; flags: qr rd ; QUERY: 1, ANSWER: 0, AUTHORITY: 13, ADDITIONAL: 11
+
+;; QUESTION SECTION:
+*.be.deliveroo.com. IN A
+
+;; AUTHORITY SECTION:
+com. 58730 IN NS d.gtld-servers.net.
+com. 58730 IN NS e.gtld-servers.net.
+com. 58730 IN NS g.gtld-servers.net.
+com. 58730 IN NS k.gtld-servers.net.
+com. 58730 IN NS h.gtld-servers.net.
+com. 58730 IN NS i.gtld-servers.net.
+com. 58730 IN NS m.gtld-servers.net.
+com. 58730 IN NS j.gtld-servers.net.
+com. 58730 IN NS f.gtld-servers.net.
+com. 58730 IN NS l.gtld-servers.net.
+com. 58730 IN NS c.gtld-servers.net.
+com. 58730 IN NS b.gtld-servers.net.
+com. 58730 IN NS a.gtld-servers.net.
+
+;; ADDITIONAL SECTION:
+d.gtld-servers.net. 72206 IN A 192.31.80.30
+d.gtld-servers.net. 72206 IN AAAA 2001:500:856e::30
+h.gtld-servers.net. 82157 IN A 192.54.112.30
+h.gtld-servers.net. 70244 IN AAAA 2001:502:8cc::30
+b.gtld-servers.net. 72206 IN A 192.33.14.30
+b.gtld-servers.net. 72206 IN AAAA 2001:503:231d::2:30
+g.gtld-servers.net. 82157 IN A 192.42.93.30
+g.gtld-servers.net. 82157 IN AAAA 2001:503:eea3::30
+l.gtld-servers.net. 80350 IN A 192.41.162.30
+l.gtld-servers.net. 80350 IN AAAA 2001:500:d937::30
+e.gtld-servers.net. 72206 IN A 192.12.94.30
+
+
+;; Server: 195.129.12.114:53
+;; Size: 98
+;; Unix time: 1612714282
+;; ->>HEADER<<- opcode: QUERY, status: NXDOMAIN, id: 45058
+;; flags: qr aa rd ra ; QUERY: 1, ANSWER: 0, AUTHORITY: 1, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+*.deliveroo.com.sg. IN A
+
+;; AUTHORITY SECTION:
+deliveroo.com.sg. 3600 IN SOA mona.ns.cloudflare.com. dns.cloudflare.com. 2036263957 10000 2400 604800 3600
+
+
+;; Server: 206.253.194.65:53
+;; Size: 107
+;; Unix time: 1612714282
+;; ->>HEADER<<- opcode: QUERY, status: NXDOMAIN, id: 53331
+;; flags: qr rd ra ; QUERY: 1, ANSWER: 0, AUTHORITY: 1, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+atlantis.sandbox.deliveroo.com. IN A
+
+;; AUTHORITY SECTION:
+deliveroo.com. 3600 IN SOA mona.ns.cloudflare.com. dns.cloudflare.com. 2036403451 10000 2400 604800 3600
+
+
+;; Server: 194.190.225.2:53
+;; Size: 42
+;; Unix time: 1612714283
+;; ->>HEADER<<- opcode: QUERY, status: SERVFAIL, id: 17784
+;; flags: qr rd ra ; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+sg.staging.deliveroo.com. IN A
+
+
+;; Server: 192.76.144.66:53
+;; Size: 131
+;; Unix time: 1612714283
+;; ->>HEADER<<- opcode: QUERY, status: NXDOMAIN, id: 31709
+;; flags: qr aa rd ra ; QUERY: 1, ANSWER: 0, AUTHORITY: 1, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+\x1b[92msupport-staging.deliveroo.com\x1b[0m. IN A
+
+;; AUTHORITY SECTION:
+. 10800 IN SOA a.root-servers.net. nstld.verisign-grs.com. 2021020700 1800 900 604800 86400
+
+
+;; Server: 119.160.208.251:53
+;; Size: 103
+;; Unix time: 1612714283
+;; ->>HEADER<<- opcode: QUERY, status: NXDOMAIN, id: 36211
+;; flags: qr rd ra ; QUERY: 1, ANSWER: 0, AUTHORITY: 1, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+*.sg.sandbox.deliveroo.com. IN A
+
+;; AUTHORITY SECTION:
+deliveroo.com. 900 IN SOA mona.ns.cloudflare.com. dns.cloudflare.com. 2036403451 10000 2400 604800 3600
+
+
+;; Server: 211.63.64.11:53
+;; Size: 135
+;; Unix time: 1612714283
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 39030
+;; flags: qr rd ra ; QUERY: 1, ANSWER: 2, AUTHORITY: 2, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+deliveroo.com.sg. IN A
+
+;; ANSWER SECTION:
+deliveroo.com.sg. 300 IN A 104.18.66.62
+deliveroo.com.sg. 300 IN A 104.18.65.62
+
+;; AUTHORITY SECTION:
+deliveroo.COM.sg. 1476 IN NS phil.ns.cloudflare.com.
+deliveroo.COM.sg. 1476 IN NS mona.ns.cloudflare.com.
+
+
+;; Server: 62.108.161.161:53
+;; Size: 507
+;; Unix time: 1612714283
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 16665
+;; flags: qr rd ; QUERY: 1, ANSWER: 0, AUTHORITY: 13, ADDITIONAL: 15
+
+;; QUESTION SECTION:
+deliveroo.asia. IN A
+
+;; AUTHORITY SECTION:
+. 58789 IN NS h.root-servers.net.
+. 58789 IN NS b.root-servers.net.
+. 58789 IN NS i.root-servers.net.
+. 58789 IN NS a.root-servers.net.
+. 58789 IN NS d.root-servers.net.
+. 58789 IN NS e.root-servers.net.
+. 58789 IN NS j.root-servers.net.
+. 58789 IN NS f.root-servers.net.
+. 58789 IN NS k.root-servers.net.
+. 58789 IN NS m.root-servers.net.
+. 58789 IN NS g.root-servers.net.
+. 58789 IN NS c.root-servers.net.
+. 58789 IN NS l.root-servers.net.
+
+;; ADDITIONAL SECTION:
+h.root-servers.net. 145189 IN A 198.97.190.53
+b.root-servers.net. 145189 IN A 199.9.14.201
+i.root-servers.net. 145189 IN A 192.36.148.17
+a.root-servers.net. 145189 IN A 198.41.0.4
+d.root-servers.net. 145189 IN A 199.7.91.13
+e.root-servers.net. 145189 IN A 192.203.230.10
+j.root-servers.net. 145189 IN A 192.58.128.30
+f.root-servers.net. 145189 IN A 192.5.5.241
+k.root-servers.net. 145189 IN A 193.0.14.129
+m.root-servers.net. 145189 IN A 202.12.27.33
+g.root-servers.net. 145189 IN A 192.112.36.4
+c.root-servers.net. 145189 IN A 192.33.4.12
+l.root-servers.net. 145189 IN A 199.7.83.42
+h.root-servers.net. 145189 IN AAAA 2001:500:1::53
+b.root-servers.net. 145189 IN AAAA 2001:500:200::b
+
+
+;; Server: 213.55.96.166:53
+;; Size: 101
+;; Unix time: 1612714283
+;; ->>HEADER<<- opcode: QUERY, status: NXDOMAIN, id: 42074
+;; flags: qr rd ra ; QUERY: 1, ANSWER: 0, AUTHORITY: 1, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+fr.sandbox.deliveroo.com. IN A
+
+;; AUTHORITY SECTION:
+deliveroo.com. 3600 IN SOA mona.ns.cloudflare.com. dns.cloudflare.com. 2036403451 10000 2400 604800 3600
+
+
+;; Server: 62.94.0.41:53
+;; Size: 62
+;; Unix time: 1612714283
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 38103
+;; flags: qr rd ra ; QUERY: 1, ANSWER: 2, AUTHORITY: 0, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+deliveroo.fr. IN A
+
+;; ANSWER SECTION:
+deliveroo.fr. 300 IN A 104.17.98.24
+deliveroo.fr. 300 IN A 104.17.99.24
+
+
+;; Server: 193.58.204.59:53
+;; Size: 72
+;; Unix time: 1612714283
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 44157
+;; flags: qr rd ra ; QUERY: 1, ANSWER: 2, AUTHORITY: 0, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+campaign.deliveroo.com. IN A
+
+;; ANSWER SECTION:
+campaign.deliveroo.com. 300 IN A 104.17.231.70
+campaign.deliveroo.com. 300 IN A 104.17.230.70
+
+
+;; Server: 151.11.85.5:53
+;; Size: 270
+;; Unix time: 1612714283
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 51871
+;; flags: qr rd ; QUERY: 1, ANSWER: 0, AUTHORITY: 13, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+global.staging.deliveroo.com. IN A
+
+;; AUTHORITY SECTION:
+com. 157193 IN NS h.gtld-servers.net.
+com. 157193 IN NS i.gtld-servers.net.
+com. 157193 IN NS j.gtld-servers.net.
+com. 157193 IN NS k.gtld-servers.net.
+com. 157193 IN NS l.gtld-servers.net.
+com. 157193 IN NS m.gtld-servers.net.
+com. 157193 IN NS a.gtld-servers.net.
+com. 157193 IN NS b.gtld-servers.net.
+com. 157193 IN NS c.gtld-servers.net.
+com. 157193 IN NS d.gtld-servers.net.
+com. 157193 IN NS e.gtld-servers.net.
+com. 157193 IN NS f.gtld-servers.net.
+com. 157193 IN NS g.gtld-servers.net.
+
+
+;; Server: 193.111.144.161:53
+;; Size: 245
+;; Unix time: 1612714283
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 39582
+;; flags: qr rd ra ; QUERY: 1, ANSWER: 1, AUTHORITY: 3, ADDITIONAL: 6
+
+;; QUESTION SECTION:
+deliveroobrand.com. IN A
+
+;; ANSWER SECTION:
+deliveroobrand.com. 10800 IN A 217.70.184.38
+
+;; AUTHORITY SECTION:
+deliveroobrand.com. 172800 IN NS a.dns.gandi.net.
+deliveroobrand.com. 172800 IN NS c.dns.gandi.net.
+deliveroobrand.com. 172800 IN NS b.dns.gandi.net.
+
+;; ADDITIONAL SECTION:
+a.dns.gandi.net. 67863 IN A 173.246.98.1
+a.dns.gandi.net. 154630 IN AAAA 2604:3400:abca::1
+b.dns.gandi.net. 67863 IN A 213.167.229.1
+b.dns.gandi.net. 154630 IN AAAA 2001:4b98:abcb::1
+c.dns.gandi.net. 67863 IN A 217.70.179.1
+c.dns.gandi.net. 154630 IN AAAA 2604:3400:abcc::1
+
+
+;; Server: 64.94.1.1:53
+;; Size: 381
+;; Unix time: 1612714283
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 10677
+;; flags: qr rd ra ; QUERY: 1, ANSWER: 2, AUTHORITY: 2, ADDITIONAL: 12
+
+;; QUESTION SECTION:
+deliveroo.sg. IN A
+
+;; ANSWER SECTION:
+deliveroo.sg. 300 IN A 172.67.155.158
+deliveroo.sg. 300 IN A 104.21.72.216
+
+;; AUTHORITY SECTION:
+deliveroo.sg. 3600 IN NS phil.ns.cloudflare.com.
+deliveroo.sg. 3600 IN NS mona.ns.cloudflare.com.
+
+;; ADDITIONAL SECTION:
+mona.ns.cloudflare.com. 122309 IN A 172.64.32.206
+mona.ns.cloudflare.com. 122309 IN A 173.245.58.206
+mona.ns.cloudflare.com. 122309 IN A 108.162.192.206
+phil.ns.cloudflare.com. 110241 IN A 108.162.193.137
+phil.ns.cloudflare.com. 110241 IN A 172.64.33.137
+phil.ns.cloudflare.com. 110241 IN A 173.245.59.137
+mona.ns.cloudflare.com. 122309 IN AAAA 2a06:98c1:50::ac40:20ce
+mona.ns.cloudflare.com. 122309 IN AAAA 2606:4700:50::adf5:3ace
+mona.ns.cloudflare.com. 122309 IN AAAA 2803:f800:50::6ca2:c0ce
+phil.ns.cloudflare.com. 110241 IN AAAA 2a06:98c1:50::ac40:2189
+phil.ns.cloudflare.com. 110241 IN AAAA 2606:4700:58::adf5:3b89
+phil.ns.cloudflare.com. 110241 IN AAAA 2803:f800:50::6ca2:c189
+
+
+;; Server: 206.253.194.65:53
+;; Size: 391
+;; Unix time: 1612714283
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 16883
+;; flags: qr rd ra ; QUERY: 1, ANSWER: 2, AUTHORITY: 2, ADDITIONAL: 12
+
+;; QUESTION SECTION:
+restaurants.deliveroo.com. IN A
+
+;; ANSWER SECTION:
+restaurants.deliveroo.com. 300 IN A 104.17.231.70
+restaurants.deliveroo.com. 300 IN A 104.17.230.70
+
+;; AUTHORITY SECTION:
+deliveroo.com. 168473 IN NS phil.ns.cloudflare.com.
+deliveroo.com. 168473 IN NS mona.ns.cloudflare.com.
+
+;; ADDITIONAL SECTION:
+mona.ns.cloudflare.com. 352 IN A 173.245.58.206
+mona.ns.cloudflare.com. 352 IN A 108.162.192.206
+mona.ns.cloudflare.com. 352 IN A 172.64.32.206
+phil.ns.cloudflare.com. 157993 IN A 172.64.33.137
+phil.ns.cloudflare.com. 157993 IN A 173.245.59.137
+phil.ns.cloudflare.com. 157993 IN A 108.162.193.137
+mona.ns.cloudflare.com. 352 IN AAAA 2606:4700:50::adf5:3ace
+mona.ns.cloudflare.com. 352 IN AAAA 2803:f800:50::6ca2:c0ce
+mona.ns.cloudflare.com. 352 IN AAAA 2a06:98c1:50::ac40:20ce
+phil.ns.cloudflare.com. 140813 IN AAAA 2606:4700:58::adf5:3b89
+phil.ns.cloudflare.com. 140813 IN AAAA 2803:f800:50::6ca2:c189
+phil.ns.cloudflare.com. 140813 IN AAAA 2a06:98c1:50::ac40:2189
+
+
+;; Server: 65.39.139.53:53
+;; Size: 388
+;; Unix time: 1612714283
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 22163
+;; flags: qr rd ra ; QUERY: 1, ANSWER: 2, AUTHORITY: 2, ADDITIONAL: 12
+
+;; QUESTION SECTION:
+identity.deliveroo.com. IN A
+
+;; ANSWER SECTION:
+identity.deliveroo.com. 300 IN A 104.17.230.70
+identity.deliveroo.com. 300 IN A 104.17.231.70
+
+;; AUTHORITY SECTION:
+deliveroo.com. 142552 IN NS phil.ns.cloudflare.com.
+deliveroo.com. 142552 IN NS mona.ns.cloudflare.com.
+
+;; ADDITIONAL SECTION:
+phil.ns.cloudflare.com. 61528 IN A 108.162.193.137
+phil.ns.cloudflare.com. 61528 IN A 172.64.33.137
+phil.ns.cloudflare.com. 61528 IN A 173.245.59.137
+phil.ns.cloudflare.com. 61528 IN AAAA 2803:f800:50::6ca2:c189
+phil.ns.cloudflare.com. 61528 IN AAAA 2a06:98c1:50::ac40:2189
+phil.ns.cloudflare.com. 61528 IN AAAA 2606:4700:58::adf5:3b89
+mona.ns.cloudflare.com. 64111 IN A 172.64.32.206
+mona.ns.cloudflare.com. 64111 IN A 173.245.58.206
+mona.ns.cloudflare.com. 64111 IN A 108.162.192.206
+mona.ns.cloudflare.com. 64111 IN AAAA 2a06:98c1:50::ac40:20ce
+mona.ns.cloudflare.com. 64111 IN AAAA 2606:4700:50::adf5:3ace
+mona.ns.cloudflare.com. 64111 IN AAAA 2803:f800:50::6ca2:c0ce
+
+
+;; Server: 211.115.194.3:53
+;; Size: 248
+;; Unix time: 1612714283
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 11944
+;; flags: qr rd ra ; QUERY: 1, ANSWER: 1, AUTHORITY: 3, ADDITIONAL: 6
+
+;; QUESTION SECTION:
+deliveroogoldcard.com. IN A
+
+;; ANSWER SECTION:
+deliveroogoldcard.com. 10800 IN A 217.70.184.38
+
+;; AUTHORITY SECTION:
+deliveroogoldcard.com. 172800 IN NS b.dns.gandi.net.
+deliveroogoldcard.com. 172800 IN NS c.dns.gandi.net.
+deliveroogoldcard.com. 172800 IN NS a.dns.gandi.net.
+
+;; ADDITIONAL SECTION:
+a.dns.gandi.net. 57269 IN A 173.246.98.1
+b.dns.gandi.net. 57269 IN A 213.167.229.1
+c.dns.gandi.net. 57269 IN A 217.70.179.1
+a.dns.gandi.net. 57269 IN AAAA 2604:3400:abca::1
+b.dns.gandi.net. 57269 IN AAAA 2001:4b98:abcb::1
+c.dns.gandi.net. 57269 IN AAAA 2604:3400:abcc::1
+
+
+;; Server: 91.214.72.34:53
+;; Size: 107
+;; Unix time: 1612714283
+;; ->>HEADER<<- opcode: QUERY, status: NXDOMAIN, id: 23753
+;; flags: qr rd ra ; QUERY: 1, ANSWER: 0, AUTHORITY: 1, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+*.global.staging.deliveroo.com. IN A
+
+;; AUTHORITY SECTION:
+deliveroo.com. 2362 IN SOA mona.ns.cloudflare.com. dns.cloudflare.com. 2036403451 10000 2400 604800 3600
+
+
+;; Server: 195.186.1.110:53
+;; Size: 101
+;; Unix time: 1612714283
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 27881
+;; flags: qr rd ra ; QUERY: 1, ANSWER: 0, AUTHORITY: 1, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+be.staging.deliveroo.com. IN A
+
+;; AUTHORITY SECTION:
+deliveroo.com. 3600 IN SOA mona.ns.cloudflare.com. dns.cloudflare.com. 2036403451 10000 2400 604800 3600
+
+
+;; Server: 91.214.72.34:53
+;; Size: 103
+;; Unix time: 1612714283
+;; ->>HEADER<<- opcode: QUERY, status: NXDOMAIN, id: 39390
+;; flags: qr rd ra ; QUERY: 1, ANSWER: 0, AUTHORITY: 1, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+*.tw.staging.deliveroo.com. IN A
+
+;; AUTHORITY SECTION:
+deliveroo.com. 3600 IN SOA mona.ns.cloudflare.com. dns.cloudflare.com. 2036403451 10000 2400 604800 3600
+
+
+;; Server: 202.62.224.2:53
+;; Size: 103
+;; Unix time: 1612714283
+;; ->>HEADER<<- opcode: QUERY, status: NXDOMAIN, id: 24372
+;; flags: qr rd ra ; QUERY: 1, ANSWER: 0, AUTHORITY: 1, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+*.hk.sandbox.deliveroo.com. IN A
+
+;; AUTHORITY SECTION:
+deliveroo.com. 900 IN SOA mona.ns.cloudflare.com. dns.cloudflare.com. 2036403451 10000 2400 604800 3600
+
+
+;; Server: 82.199.32.36:53
+;; Size: 249
+;; Unix time: 1612714283
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 34827
+;; flags: qr rd ; QUERY: 1, ANSWER: 0, AUTHORITY: 13, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+global.deliveroo.com. IN A
+
+;; AUTHORITY SECTION:
+. 3600000 IN NS C.ROOT-SERVERS.NET.
+. 3600000 IN NS D.ROOT-SERVERS.NET.
+. 3600000 IN NS E.ROOT-SERVERS.NET.
+. 3600000 IN NS F.ROOT-SERVERS.NET.
+. 3600000 IN NS G.ROOT-SERVERS.NET.
+. 3600000 IN NS H.ROOT-SERVERS.NET.
+. 3600000 IN NS I.ROOT-SERVERS.NET.
+. 3600000 IN NS J.ROOT-SERVERS.NET.
+. 3600000 IN NS K.ROOT-SERVERS.NET.
+. 3600000 IN NS L.ROOT-SERVERS.NET.
+. 3600000 IN NS M.ROOT-SERVERS.NET.
+. 3600000 IN NS A.ROOT-SERVERS.NET.
+. 3600000 IN NS B.ROOT-SERVERS.NET.
+
+
+;; Server: 77.88.8.8:53
+;; Size: 103
+;; Unix time: 1612714283
+;; ->>HEADER<<- opcode: QUERY, status: NXDOMAIN, id: 1454
+;; flags: qr rd ra ; QUERY: 1, ANSWER: 0, AUTHORITY: 1, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+*.es.staging.deliveroo.com. IN A
+
+;; AUTHORITY SECTION:
+deliveroo.com. 60 IN SOA mona.ns.cloudflare.com. dns.cloudflare.com. 2036403451 10000 2400 604800 3600
+
+
+;; Server: 216.52.169.1:53
+;; Size: 383
+;; Unix time: 1612714283
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 22480
+;; flags: qr rd ra ; QUERY: 1, ANSWER: 2, AUTHORITY: 2, ADDITIONAL: 12
+
+;; QUESTION SECTION:
+api.deliveroo.com. IN A
+
+;; ANSWER SECTION:
+api.deliveroo.com. 300 IN A 104.17.230.70
+api.deliveroo.com. 300 IN A 104.17.231.70
+
+;; AUTHORITY SECTION:
+deliveroo.com. 168473 IN NS mona.ns.cloudflare.com.
+deliveroo.com. 168473 IN NS phil.ns.cloudflare.com.
+
+;; ADDITIONAL SECTION:
+mona.ns.cloudflare.com. 110215 IN A 172.64.32.206
+mona.ns.cloudflare.com. 110215 IN A 173.245.58.206
+mona.ns.cloudflare.com. 110215 IN A 108.162.192.206
+phil.ns.cloudflare.com. 116815 IN A 172.64.33.137
+phil.ns.cloudflare.com. 116815 IN A 173.245.59.137
+phil.ns.cloudflare.com. 116815 IN A 108.162.193.137
+mona.ns.cloudflare.com. 110215 IN AAAA 2a06:98c1:50::ac40:20ce
+mona.ns.cloudflare.com. 110215 IN AAAA 2606:4700:50::adf5:3ace
+mona.ns.cloudflare.com. 110215 IN AAAA 2803:f800:50::6ca2:c0ce
+phil.ns.cloudflare.com. 116815 IN AAAA 2a06:98c1:50::ac40:2189
+phil.ns.cloudflare.com. 116815 IN AAAA 2606:4700:58::adf5:3b89
+phil.ns.cloudflare.com. 116815 IN AAAA 2803:f800:50::6ca2:c189
+
+
+;; Server: 158.43.128.72:53
+;; Size: 101
+;; Unix time: 1612714283
+;; ->>HEADER<<- opcode: QUERY, status: NXDOMAIN, id: 14679
+;; flags: qr aa rd ra ; QUERY: 1, ANSWER: 0, AUTHORITY: 1, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+tw.sandbox.deliveroo.com. IN A
+
+;; AUTHORITY SECTION:
+deliveroo.com. 3600 IN SOA mona.ns.cloudflare.com. dns.cloudflare.com. 2036403451 10000 2400 604800 3600
+
+
+;; Server: 210.80.58.66:53
+;; Size: 95
+;; Unix time: 1612714284
+;; ->>HEADER<<- opcode: QUERY, status: NXDOMAIN, id: 28165
+;; flags: qr aa rd ra ; QUERY: 1, ANSWER: 0, AUTHORITY: 1, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+*.ie.deliveroo.com. IN A
+
+;; AUTHORITY SECTION:
+deliveroo.com. 3600 IN SOA mona.ns.cloudflare.com. dns.cloudflare.com. 2036403451 10000 2400 604800 3600
+
+
+;; Server: 203.119.36.106:53
+;; Size: 95
+;; Unix time: 1612714284
+;; ->>HEADER<<- opcode: QUERY, status: NXDOMAIN, id: 12109
+;; flags: qr rd ra ; QUERY: 1, ANSWER: 0, AUTHORITY: 1, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+*.au.deliveroo.com. IN A
+
+;; AUTHORITY SECTION:
+deliveroo.com. 3600 IN SOA mona.ns.cloudflare.com. dns.cloudflare.com. 2036403451 10000 2400 604800 3600
+
+
+;; Server: 79.141.82.250:53
+;; Size: 95
+;; Unix time: 1612714284
+;; ->>HEADER<<- opcode: QUERY, status: NXDOMAIN, id: 20626
+;; flags: qr rd ra ; QUERY: 1, ANSWER: 0, AUTHORITY: 1, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+*.uk.deliveroo.com. IN A
+
+;; AUTHORITY SECTION:
+deliveroo.com. 3600 IN SOA mona.ns.cloudflare.com. dns.cloudflare.com. 2036403451 10000 2400 604800 3600
+
+
+;; Server: 193.230.183.201:53
+;; Size: 70
+;; Unix time: 1612714284
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 26053
+;; flags: qr rd ra ; QUERY: 1, ANSWER: 2, AUTHORITY: 0, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+api.uk.deliveroo.com. IN A
+
+;; ANSWER SECTION:
+api.uk.deliveroo.com. 300 IN A 104.17.231.70
+api.uk.deliveroo.com. 300 IN A 104.17.230.70
+
+
+;; Server: 202.248.37.74:53
+;; Size: 101
+;; Unix time: 1612714284
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 701
+;; flags: qr rd ra ; QUERY: 1, ANSWER: 0, AUTHORITY: 1, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+hk.staging.deliveroo.com. IN A
+
+;; AUTHORITY SECTION:
+deliveroo.com. 30 IN SOA mona.ns.cloudflare.com. dns.cloudflare.com. 2036403451 10000 2400 604800 3600
+
+
+;; Server: 119.160.208.252:53
+;; Size: 101
+;; Unix time: 1612714284
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 21604
+;; flags: qr rd ra ; QUERY: 1, ANSWER: 0, AUTHORITY: 1, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+ie.staging.deliveroo.com. IN A
+
+;; AUTHORITY SECTION:
+deliveroo.com. 1799 IN SOA mona.ns.cloudflare.com. dns.cloudflare.com. 2036403451 10000 2400 604800 3600
+
+
+;; Server: 84.200.70.40:53
+;; Size: 107
+;; Unix time: 1612714284
+;; ->>HEADER<<- opcode: QUERY, status: NXDOMAIN, id: 57799
+;; flags: qr rd ra ; QUERY: 1, ANSWER: 0, AUTHORITY: 1, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+*.global.sandbox.deliveroo.com. IN A
+
+;; AUTHORITY SECTION:
+deliveroo.com. 3597 IN SOA mona.ns.cloudflare.com. dns.cloudflare.com. 2036403451 10000 2400 604800 3600
+
+
+;; Server: 193.95.93.77:53
+;; Size: 390
+;; Unix time: 1612714284
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 52129
+;; flags: qr rd ra ; QUERY: 1, ANSWER: 2, AUTHORITY: 2, ADDITIONAL: 12
+
+;; QUESTION SECTION:
+deliveroo.engineering. IN A
+
+;; ANSWER SECTION:
+deliveroo.engineering. 300 IN A 104.21.78.225
+deliveroo.engineering. 300 IN A 172.67.137.223
+
+;; AUTHORITY SECTION:
+deliveroo.engineering. 3600 IN NS mona.ns.cloudflare.com.
+deliveroo.engineering. 3600 IN NS phil.ns.cloudflare.com.
+
+;; ADDITIONAL SECTION:
+mona.ns.cloudflare.com. 568 IN A 108.162.192.206
+mona.ns.cloudflare.com. 568 IN A 172.64.32.206
+mona.ns.cloudflare.com. 568 IN A 173.245.58.206
+phil.ns.cloudflare.com. 296 IN A 108.162.193.137
+phil.ns.cloudflare.com. 296 IN A 172.64.33.137
+phil.ns.cloudflare.com. 296 IN A 173.245.59.137
+mona.ns.cloudflare.com. 568 IN AAAA 2a06:98c1:50::ac40:20ce
+mona.ns.cloudflare.com. 568 IN AAAA 2606:4700:50::adf5:3ace
+mona.ns.cloudflare.com. 568 IN AAAA 2803:f800:50::6ca2:c0ce
+phil.ns.cloudflare.com. 296 IN AAAA 2a06:98c1:50::ac40:2189
+phil.ns.cloudflare.com. 296 IN AAAA 2606:4700:58::adf5:3b89
+phil.ns.cloudflare.com. 296 IN AAAA 2803:f800:50::6ca2:c189
+
+
+;; Server: 95.158.128.2:53
+;; Size: 120
+;; Unix time: 1612714285
+;; ->>HEADER<<- opcode: QUERY, status: NXDOMAIN, id: 47891
+;; flags: qr rd ra ; QUERY: 1, ANSWER: 0, AUTHORITY: 1, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+\x1b[92mhelp.deliveroo.com\x1b[0m. IN A
+
+;; AUTHORITY SECTION:
+. 3508 IN SOA a.root-servers.net. nstld.verisign-grs.com. 2021020700 1800 900 604800 86400
+
+
+;; Server: 69.25.1.1:53
+;; Size: 246
+;; Unix time: 1612714286
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 47889
+;; flags: qr rd ra ; QUERY: 1, ANSWER: 1, AUTHORITY: 3, ADDITIONAL: 6
+
+;; QUESTION SECTION:
+deliveroogold.co.uk. IN A
+
+;; ANSWER SECTION:
+deliveroogold.co.uk. 10800 IN A 217.70.184.38
+
+;; AUTHORITY SECTION:
+deliveroogold.co.uk. 172800 IN NS b.dns.gandi.net.
+deliveroogold.co.uk. 172800 IN NS a.dns.gandi.net.
+deliveroogold.co.uk. 172800 IN NS c.dns.gandi.net.
+
+;; ADDITIONAL SECTION:
+a.dns.gandi.net. 7273 IN A 173.246.98.1
+b.dns.gandi.net. 7273 IN A 213.167.229.1
+c.dns.gandi.net. 7273 IN A 217.70.179.1
+a.dns.gandi.net. 7273 IN AAAA 2604:3400:abca::1
+b.dns.gandi.net. 7273 IN AAAA 2001:4b98:abcb::1
+c.dns.gandi.net. 7273 IN AAAA 2604:3400:abcc::1
+
+
+;; Server: 195.189.130.1:53
+;; Size: 93
+;; Unix time: 1612714287
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 31567
+;; flags: qr rd ra ; QUERY: 1, ANSWER: 0, AUTHORITY: 1, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+tw.deliveroo.com. IN A
+
+;; AUTHORITY SECTION:
+deliveroo.com. 1799 IN SOA mona.ns.cloudflare.com. dns.cloudflare.com. 2036403451 10000 2400 604800 3600
+
+
+;; Server: 64.94.1.1:53
+;; Size: 386
+;; Unix time: 1612714289
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 58428
+;; flags: qr rd ra ; QUERY: 1, ANSWER: 2, AUTHORITY: 2, ADDITIONAL: 12
+
+;; QUESTION SECTION:
+api.ae.deliveroo.com. IN A
+
+;; ANSWER SECTION:
+api.ae.deliveroo.com. 300 IN A 104.17.231.70
+api.ae.deliveroo.com. 300 IN A 104.17.230.70
+
+;; AUTHORITY SECTION:
+deliveroo.com. 168467 IN NS mona.ns.cloudflare.com.
+deliveroo.com. 168467 IN NS phil.ns.cloudflare.com.
+
+;; ADDITIONAL SECTION:
+mona.ns.cloudflare.com. 122303 IN A 173.245.58.206
+mona.ns.cloudflare.com. 122303 IN A 108.162.192.206
+mona.ns.cloudflare.com. 122303 IN A 172.64.32.206
+phil.ns.cloudflare.com. 110235 IN A 172.64.33.137
+phil.ns.cloudflare.com. 110235 IN A 173.245.59.137
+phil.ns.cloudflare.com. 110235 IN A 108.162.193.137
+mona.ns.cloudflare.com. 122303 IN AAAA 2606:4700:50::adf5:3ace
+mona.ns.cloudflare.com. 122303 IN AAAA 2803:f800:50::6ca2:c0ce
+mona.ns.cloudflare.com. 122303 IN AAAA 2a06:98c1:50::ac40:20ce
+phil.ns.cloudflare.com. 110235 IN AAAA 2606:4700:58::adf5:3b89
+phil.ns.cloudflare.com. 110235 IN AAAA 2803:f800:50::6ca2:c189
+phil.ns.cloudflare.com. 110235 IN AAAA 2a06:98c1:50::ac40:2189
+
+

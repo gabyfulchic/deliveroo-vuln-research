@@ -1,0 +1,26 @@
+    https://github.com/OWASP/Amass
+--------------------------------------------------------------------------------
+7977 names discovered - brute: 122, api: 19, scrape: 4, archive: 15, alt: 7815, dns: 1, cert: 1
+--------------------------------------------------------------------------------
+ASN: 20940 - AKAMAI-ASN1
+	104.86.110.0/23   	1    Subdomain Name(s)
+	184.28.198.0/23   	2    Subdomain Name(s)
+	2.18.66.0/24      	1    Subdomain Name(s)
+ASN: 16509 - AMAZON-02 - Amazon.com, Inc.
+	34.240.0.0/12     	1    Subdomain Name(s)
+ASN: 8075 - MICROSOFT-CORP-MSN-AS-BLOCK - Microsoft Corporation
+	52.160.0.0/11     	1    Subdomain Name(s)
+ASN: 14618 - AMAZON-AES - Amazon.com, Inc.
+	52.20.0.0/14      	1    Subdomain Name(s)
+ASN: 41041 - VCLK-EU-
+	89.207.16.0/22    	1    Subdomain Name(s)
+ASN: 13335 - CLOUDFLARENET - Cloudflare, Inc.
+	2606:4700::/47    	86   Subdomain Name(s)
+	104.16.0.0/14     	86   Subdomain Name(s)
+ASN: 14340 - SALESFORCE - Salesforce.com, Inc.
+	161.71.0.0/16     	3    Subdomain Name(s)
+ASN: 33070 - RMH-14 - Rackspace Hosting
+	198.101.192.0/18  	7925 Subdomain Name(s)
+
+The enumeration has finished
+Discoveries are being migrated into the local database
